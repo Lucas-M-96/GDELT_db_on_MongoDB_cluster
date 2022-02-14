@@ -1,0 +1,6 @@
+sharding:
+        clusterRole: shardsvr
+replication:
+        replSetName: "rs3"
+net:
+        bindIp: localhost,tp-hadoop-36,192.168.3.199

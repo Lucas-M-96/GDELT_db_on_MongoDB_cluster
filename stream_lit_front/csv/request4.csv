@@ -1,0 +1,24 @@
+2021-01_id,2021-01_val,2021-02_id,2021-02_val,2021-03_id,2021-03_val
+nb_events,14.0,nb_events,6.0,nb_events,17.0
+nb_articles,17.0,nb_articles,6.0,nb_articles,31.0
+avg_tone,-0.5,avg_tone,-1.9,avg_tone,-0.9
+Engage in negotiation,4.0,Make statement,3.0,Host a visit,4.0
+Make a visit,2.0,Praise or endorse,2.0,Make a visit,3.0
+Host a visit,2.0,Use conventional military force,1.0,Appeal,3.0
+Consult,2.0,,,Yield ,2.0
+Express intent to cooperate,1.0,,,Express intent to meet or negotiate,1.0
+alassane ouattara,8.0,muammar gaddafi,2.0,hamed bakayoko,23.0
+ouattara alassane,6.0,jacques foccart,2.0,alassane ouattara,15.0
+yopougon giga,6.0,al qaeda,2.0,d alassane ouattara,10.0
+dramane ouattara,6.0,jacques chirac,2.0,laurent gbagbo,7.0
+guillaume soro,6.0,abdelmalek droukdel,2.0,d hamed bakayoko,6.0
+FR,17.0,FR,6.0,IV,31.0
+IV,17.0,IV,6.0,FR,31.0
+US,10.0,CD,4.0,GM,8.0
+IR,6.0,AG,4.0,BE,4.0
+GM,6.0,ML,3.0,SF,2.0
+allafrica.com,6.0,theafricareport.com,2.0,allafrica.com,4.0
+musique.rfi.fr,4.0,milligazette.com,2.0,theafricareport.com,3.0
+europesun.com,1.0,france24.com,1.0,journaldutchad.com,2.0
+iol.co.za,1.0,allafrica.com,1.0,journaldumali.com,2.0
+cambodiantimes.com,1.0,,,journaldebrazza.com,2.0

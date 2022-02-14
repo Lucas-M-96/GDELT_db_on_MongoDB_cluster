@@ -1,0 +1,2526 @@
+source,persons,time,nb_articles,avg_tone
+ouest-france.fr,joe biden,2021/1,356,-4.110019543626965
+ouest-france.fr,donald trump,2021/1,270,-4.4613867283533155
+ouest-france.fr,joe biden,2021/2,140,-3.02049126513854
+ouest-france.fr,joe biden,2021/3,122,-3.3125973788112018
+sudouest.fr,joe biden,2021/1,120,-2.8628189553580436
+ouest-france.fr,barack obama,2021/1,101,-5.864921278325308
+ouest-france.fr,donald trump,2021/2,100,-3.550247236622194
+sudouest.fr,suu kyi,2021/2,95,-4.243890159632581
+ouest-france.fr,boris johnson,2021/1,89,-2.609915821898457
+ouest-france.fr,julian assange,2021/1,80,-6.620908872216823
+sudouest.fr,joe biden,2021/2,74,-4.287684962296082
+sudouest.fr,donald trump,2021/1,66,-2.3334720694173754
+ouest-france.fr,boris johnson,2021/3,65,-2.9150132891192397
+sudouest.fr,suu kyi,2021/3,61,-6.911758916199235
+ouest-france.fr,vladimir putin,2021/2,60,-3.3433198452007846
+ouest-france.fr,suu kyi,2021/2,60,-3.5956327030196693
+ouest-france.fr,josep borrell,2021/2,59,-3.6691900372499395
+sudouest.fr,nicolas sarkozy,2021/3,59,-3.9476292820215306
+ouest-france.fr,lold bailey,2021/1,57,-6.895107474858573
+ouest-france.fr,nicolas sarkozy,2021/3,50,-3.11478869162019
+ouest-france.fr,nancy pelosi,2021/1,46,-3.7918221023961367
+ouest-france.fr,prince harry,2021/3,45,-1.2918009398884418
+sudouest.fr,donald trump,2021/2,44,-4.485660877137262
+ouest-france.fr,oprah winfrey,2021/3,43,-1.6531714147146501
+ouest-france.fr,jens stoltenberg,2021/1,42,-3.628369006814217
+sudouest.fr,prince harry,2021/3,42,-2.126385508948297
+ouest-france.fr,kristinn hrafnsson,2021/1,40,-6.173533929700907
+ouest-france.fr,meghan markle,2021/3,39,-1.9016595224370594
+sudouest.fr,barack obama,2021/1,37,-3.5003942464650923
+sudouest.fr,meghan markle,2021/3,37,-1.462381455476957
+ouest-france.fr,moustafa al-kazimi,2021/3,37,-0.30567232417240947
+sudouest.fr,scott morrison,2021/1,36,-5.765916617765096
+ouest-france.fr,suu kyi,2021/3,36,-6.500382441103934
+ouest-france.fr,michael kopelman,2021/1,35,-7.366984993178719
+ouest-france.fr,david schoen,2021/2,35,-5.815019304702745
+ouest-france.fr,annick girardin,2021/1,35,0.9316832638619776
+ouest-france.fr,mohammad javad zarif,2021/2,33,-0.34534235668789803
+sudouest.fr,htin kyaw,2021/2,32,-2.6254209774354593
+sudouest.fr,suu ky,2021/2,32,-2.6254209774354593
+ouest-france.fr,ali sistani,2021/3,32,-0.8422020362763367
+sudouest.fr,aung san,2021/2,32,-2.6254209774354593
+sudouest.fr,julian assange,2021/1,31,-6.038435793012882
+ouest-france.fr,mitch mcconnell,2021/1,30,-1.8673458647690175
+ouest-france.fr,adam kinzinger,2021/1,30,-4.268816237809438
+ouest-france.fr,josep borrell,2021/1,30,-3.8746864867215107
+ouest-france.fr,ali al-sistani,2021/3,29,0.8178655732250535
+sudouest.fr,angela merkel,2021/1,29,-1.7962334129661166
+sudouest.fr,vladimir putin,2021/2,28,-7.17213958700554
+ouest-france.fr,angela merkel,2021/1,27,-1.2279131541117476
+sudouest.fr,vladimir putin,2021/3,27,-7.474560573350864
+ouest-france.fr,antony blinken,2021/3,27,-1.4654916642319582
+ouest-france.fr,wikileaks julian assange,2021/1,27,-5.928278856805101
+sudouest.fr,micheal maarten,2021/1,26,-3.361475076734446
+sudouest.fr,boris johnson,2021/1,26,-3.318222366715342
+sudouest.fr,josep borrell,2021/2,26,-7.313823671670632
+sudouest.fr,oprah winfrey,2021/3,25,-1.835212679830186
+sudouest.fr,joe biden,2021/3,25,-4.636216657261379
+ouest-france.fr,bruce beaver,2021/2,24,-4.069871781203582
+ouest-france.fr,melih bulu,2021/2,24,-4.144003174298343
+ouest-france.fr,ralph northam,2021/1,24,-2.8936328943740457
+ouest-france.fr,angela merkel,2021/2,24,-2.9782727090163665
+ouest-france.fr,tayyip erdogan,2021/2,24,-4.144003174298343
+ouest-france.fr,betsy devos,2021/1,24,-4.397285119396186
+ouest-france.fr,viktor orban,2021/3,24,-2.131119089801097
+ouest-france.fr,ali al sistani,2021/3,23,1.1419222382949525
+ouest-france.fr,pascal gollnisch,2021/3,23,1.1419222382949525
+ouest-france.fr,mark rutte,2021/1,23,-3.7714294570005005
+sudouest.fr,angela merkel,2021/2,23,-5.671009175016283
+sudouest.fr,antonio guterres,2021/2,23,-5.030701879677771
+ouest-france.fr,hamid assem,2021/2,22,-0.127388535031847
+ouest-france.fr,alexis tsipras,2021/2,22,-4.0335497632307815
+ouest-france.fr,chuck schumer,2021/2,22,-4.5499593774796345
+sudouest.fr,imad al-tumayzi,2021/2,22,-1.74418604651163
+ouest-france.fr,donald trump,2021/3,22,-1.077575783624788
+sudouest.fr,gaza gaza,2021/2,22,-1.74418604651163
+ouest-france.fr,ahmed al tayeb,2021/3,21,1.37174211248285
+ouest-france.fr,cardinal sako,2021/3,21,1.37174211248285
+ouest-france.fr,viktor orban,2021/1,21,-4.1552464887450435
+ouest-france.fr,abu dhabi,2021/3,21,1.37174211248285
+ouest-france.fr,catholic chaldeans,2021/3,21,1.37174211248285
+ouest-france.fr,sunni al azhar,2021/3,21,1.37174211248285
+sudouest.fr,antony blinken,2021/2,21,-4.402204727122828
+ouest-france.fr,jason miller,2021/2,20,-3.4399017709721513
+sudouest.fr,antonio guterres,2021/1,19,-2.982057346548745
+sudouest.fr,thinzar shunlei yi,2021/3,19,-6.578093236987306
+ouest-france.fr,heiko maas,2021/1,19,-4.41988950276243
+ouest-france.fr,nancy pelosi,2021/2,19,-7.096664340578288
+sudouest.fr,sidney jones,2021/1,19,-7.785467128027679
+ouest-france.fr,chuck schumer,2021/1,19,-2.7348921912177464
+ouest-france.fr,scott morrison,2021/1,19,-4.41988950276243
+ouest-france.fr,erna solberg,2021/1,19,-4.41988950276243
+sudouest.fr,islamist hamas,2021/2,19,-2.0
+sudouest.fr,sergio mattarella,2021/3,19,-6.868022232510347
+sudouest.fr,abu bakar bachir,2021/1,19,-7.785467128027679
+sudouest.fr,mahmoud abbas,2021/2,19,-2.0
+sudouest.fr,jemaah islamiyah,2021/1,19,-7.785467128027679
+sudouest.fr,thiolina ferawati,2021/1,19,-7.785467128027679
+ouest-france.fr,kyriakos mitsotakis,2021/2,19,-3.1747242487133005
+ouest-france.fr,jaroslaw kaczynski,2021/3,19,-1.3761504292224387
+ouest-france.fr,micheal maarten,2021/1,19,-4.41988950276243
+ouest-france.fr,dominic raab,2021/1,19,-4.41988950276243
+sudouest.fr,tayyip erdogan,2021/3,19,-7.771936646794468
+ouest-france.fr,mounir satouri,2021/3,19,-3.31945063247002
+ouest-france.fr,olaf scholz,2021/1,19,-4.41988950276243
+ouest-france.fr,jamie raskin,2021/2,19,-3.5941764774114224
+ouest-france.fr,george bush,2021/1,19,-4.41988950276243
+ouest-france.fr,justin trudeau,2021/1,19,-4.41988950276243
+ouest-france.fr,sylvie guillaume,2021/3,19,-3.31945063247002
+ouest-france.fr,viktor orban,2021/2,18,-4.257639563762014
+sudouest.fr,hatice cengiz,2021/3,18,-3.24324324324324
+sudouest.fr,jamal khashoggi,2021/3,18,-3.24324324324324
+sudouest.fr,arabia mohammed,2021/3,18,-3.24324324324324
+ouest-france.fr,raphael warnock,2021/1,18,-0.036442500144306715
+sudouest.fr,kelly loeffler,2021/1,18,-0.3497730566477497
+ouest-france.fr,larry hogan,2021/1,18,-4.3897357281896054
+ouest-france.fr,lindsey graham,2021/2,17,-3.29218106995885
+sudouest.fr,olaf scholz,2021/1,17,-3.50877192982456
+ouest-france.fr,david schoen bruce,2021/2,17,-3.29218106995885
+ouest-france.fr,kelly loeffler,2021/1,17,-0.8842751161579541
+sudouest.fr,jens stoltenberg,2021/1,17,-3.50877192982456
+ouest-france.fr,los angeles,2021/3,17,-4.932221770828738
+sudouest.fr,george floyd,2021/3,17,-5.6672198691438735
+sudouest.fr,justin trudeau,2021/1,17,-3.50877192982456
+sudouest.fr,mark rutte,2021/1,17,-3.50877192982456
+ouest-france.fr,kevin feige,2021/1,17,-4.58715596330275
+sudouest.fr,dominic raab,2021/1,17,-3.50877192982456
+sudouest.fr,josep borrell,2021/1,17,-3.50877192982456
+sudouest.fr,heiko maas,2021/1,17,-3.50877192982456
+sudouest.fr,suissesse christine schraner,2021/3,17,-6.4639124964695585
+sudouest.fr,stephane dujarric,2021/1,17,-3.50877192982456
+sudouest.fr,abdelmajid tebboune,2021/1,17,-1.68067226890756
+sudouest.fr,josh hawley,2021/1,17,-3.9223583224277982
+sudouest.fr,ted cruz,2021/1,17,-3.9223583224277982
+sudouest.fr,pedro sanchez,2021/1,17,-3.50877192982456
+ouest-france.fr,david campbell,2021/3,17,-2.27790432801822
+ouest-france.fr,george floyd,2021/3,17,-5.408043208626125
+sudouest.fr,mitch mcconnell,2021/1,16,-1.832333518095711
+ouest-france.fr,mazarine pingeot,2021/1,16,-0.608166811468288
+ouest-france.fr,bernard cazeneuve,2021/1,16,-0.608166811468288
+ouest-france.fr,jack lang,2021/1,16,-0.608166811468288
+sudouest.fr,win myint,2021/2,16,-5.538468813796451
+sudouest.fr,win myint,2021/3,16,-6.32911392405063
+ouest-france.fr,amrullah saleh,2021/3,16,-2.67229254571027
+ouest-france.fr,gabriel attal,2021/2,16,-1.547438177574317
+sudouest.fr,vladimir putin,2021/1,16,-2.33333333333333
+ouest-france.fr,yassine bousseria,2021/2,16,-6.06060606060606
+sudouest.fr,michael cohen,2021/2,16,-6.93928128872367
+ouest-france.fr,martine aubry,2021/1,16,-0.608166811468288
+ouest-france.fr,zalmay khalilzad,2021/3,16,-2.67229254571027
+sudouest.fr,roberta kaplan,2021/2,16,-6.93928128872367
+ouest-france.fr,lindsey graham,2021/1,16,-2.8106081007741675
+ouest-france.fr,hisham makran,2021/2,16,-6.06060606060606
+ouest-france.fr,susan collins,2021/2,16,-3.855696783588705
+sudouest.fr,cyrus vance,2021/2,16,-6.93928128872367
+sudouest.fr,ali boumendjel,2021/3,16,-4.839548036488194
+sudouest.fr,vladimir angela merkel,2021/1,16,-2.33333333333333
+ouest-france.fr,hisham el hanafi,2021/2,16,-6.06060606060606
+sudouest.fr,al capone,2021/2,16,-6.93928128872367
+sudouest.fr,christine schraner,2021/3,16,-6.32911392405063
+ouest-france.fr,barbara pompili,2021/3,16,-0.766283524904215
+sudouest.fr,richman daniel,2021/2,16,-6.93928128872367
+ouest-france.fr,danielle mitterrand,2021/1,16,-0.608166811468288
+ouest-france.fr,patrick leahy,2021/2,15,-3.89261744966443
+ouest-france.fr,nolwenn cosson,2021/3,15,-5.39174389216512
+sudouest.fr,khin maung zaw,2021/3,15,-7.650162098437958
+ouest-france.fr,mohamed noor,2021/3,15,-5.39174389216512
+ouest-france.fr,vladimir putin,2021/1,15,-1.23456790123457
+ouest-france.fr,maarten luther king,2021/3,15,-5.39174389216512
+ouest-france.fr,vladimir putin,2021/3,15,-6.320564760744224
+sudouest.fr,raphael warnock,2021/1,15,-0.002191133530535646
+ouest-france.fr,liz cheney,2021/2,15,-3.89261744966443
+ouest-france.fr,dick cheney,2021/2,15,-3.89261744966443
+ouest-france.fr,michael brown,2021/3,15,-5.39174389216512
+ouest-france.fr,vladimir angela merkel,2021/1,15,-1.23456790123457
+ouest-france.fr,mitch mcconnell,2021/2,15,-3.89261744966443
+ouest-france.fr,rudolf diesel,2021/3,15,-2.5301900255673004
+ouest-france.fr,breonna taylor,2021/3,15,-5.39174389216512
+ouest-france.fr,lisa murkowski,2021/2,15,-3.89261744966443
+ouest-france.fr,franck dubray,2021/3,15,-4.32204160873332
+ouest-france.fr,trayvon maarten,2021/3,15,-5.39174389216512
+ouest-france.fr,al watan,2021/3,14,-6.73986089543416
+sudouest.fr,michael ryan,2021/1,14,-3.6076850714677704
+ouest-france.fr,prince harry,2021/2,14,-0.6435326743937987
+sudouest.fr,marjorie taylor,2021/2,14,-2.647548644596598
+sudouest.fr,dmitri peskov,2021/2,14,-7.00179533213645
+ouest-france.fr,damien abad,2021/1,14,-0.7225048233745677
+sudouest.fr,lold bailey,2021/1,13,-5.79439252336449
+ouest-france.fr,ted cruz,2021/1,13,-1.6615471499345662
+sudouest.fr,barbara pompili,2021/2,13,-2.0020555637919473
+sudouest.fr,kristinn hrafnsson,2021/1,13,-5.79439252336449
+sudouest.fr,wikileaks julian assange,2021/1,13,-5.79439252336449
+sudouest.fr,ron soffer,2021/3,13,-4.04984423676012
+sudouest.fr,christine schraner,2021/2,13,-5.25624178712221
+sudouest.fr,mohammad javad zarif,2021/2,13,-4.433261442607233
+sudouest.fr,franck riester,2021/2,13,0.6451612903225808
+ouest-france.fr,renaud muselier,2021/1,13,-1.6032385514662737
+ouest-france.fr,tayyip erdogan erdogan,2021/2,13,-4.80349344978166
+sudouest.fr,carlos ghosn,2021/3,13,-4.505553301700971
+ouest-france.fr,sandrine rousseau,2021/2,13,-7.9411709297904265
+sudouest.fr,camille pissarro,2021/3,13,-4.04984423676012
+ouest-france.fr,jen psaki,2021/3,13,-1.3988232190069856
+sudouest.fr,boris johnson,2021/3,12,-4.287433360333318
+ouest-france.fr,ali boumendjel,2021/3,12,-2.158840214308224
+sudouest.fr,tayyip erdogan,2021/1,12,-4.231189652031337
+ouest-france.fr,karim tabbou,2021/3,12,-7.3394495412844
+ouest-france.fr,bachar al-assad,2021/3,12,-3.7801054210592113
+sudouest.fr,katsunobu kato,2021/3,12,-2.46575342465753
+ouest-france.fr,saddam hussein,2021/3,12,-2.73381294964029
+ouest-france.fr,calais nathalie bouchart,2021/3,12,-1.1322995285404984
+ouest-france.fr,scott morrison,2021/3,12,-8.9041095890411
+ouest-france.fr,alok sharma,2021/1,12,0.0
+ouest-france.fr,brittany higgins,2021/3,12,-8.9041095890411
+sudouest.fr,assadollah assadi,2021/2,12,-5.833333333333331
+ouest-france.fr,sami dernouni,2021/3,12,-7.3394495412844
+sudouest.fr,aung suu kyi,2021/3,12,-7.58620689655172
+sudouest.fr,amir saadouni,2021/2,12,-5.833333333333331
+sudouest.fr,pascal soriot,2021/3,12,-1.1844331641286
+ouest-france.fr,linda reynolds,2021/3,12,-8.9041095890411
+sudouest.fr,thierry herzog,2021/3,12,-4.958692882457339
+sudouest.fr,henri-georges beauthier,2021/2,12,-5.833333333333331
+ouest-france.fr,tayyip erdogan,2021/1,12,-4.1591857166694455
+sudouest.fr,gabriel attal,2021/1,12,-2.467156647479697
+ouest-france.fr,antonio guterres,2021/1,12,0.0
+sudouest.fr,mazarine pingeot,2021/1,12,0.6614386645346403
+sudouest.fr,ingrid betancourt,2021/2,12,-5.833333333333331
+sudouest.fr,lavra alder,2021/1,11,0.611153552330023
+ouest-france.fr,irene khan,2021/3,11,-6.12745098039216
+ouest-france.fr,jw marriott,2021/1,11,-7.08263069139966
+ouest-france.fr,thiolina ferawati,2021/1,11,-7.08263069139966
+ouest-france.fr,diek parlevliet,2021/3,11,0.216450216450216
+sudouest.fr,derek mitchell,2021/2,11,-5.16795865633075
+ouest-france.fr,david schoen bruce beaver,2021/2,11,-8.28220858895705
+ouest-france.fr,daniel bromley,2021/3,11,0.216450216450216
+ouest-france.fr,igor krasnov,2021/3,11,-6.12745098039216
+ouest-france.fr,jemaah islamiyah,2021/1,11,-7.08263069139966
+sudouest.fr,stefano maggi,2021/3,11,1.28913443830571
+sudouest.fr,franois holland,2021/1,11,0.611153552330023
+ouest-france.fr,franklin delano roosevelt,2021/2,11,-2.0559460926433384
+ouest-france.fr,kim jong,2021/3,11,0.289855072463768
+ouest-france.fr,jill biden,2021/3,11,-1.3840830449827
+ouest-france.fr,chris williams,2021/3,11,0.216450216450216
+sudouest.fr,donald trump,2021/3,11,-4.831027596784825
+ouest-france.fr,afp hnin,2021/2,11,-4.71063257065949
+ouest-france.fr,nigel adams,2021/2,11,-9.21787709497207
+ouest-france.fr,lady jill biden,2021/3,11,-1.3840830449827
+ouest-france.fr,sergeant yvonne huynh,2021/1,11,-3.641047368885389
+sudouest.fr,michel gourinchas,2021/1,11,0.611153552330023
+sudouest.fr,edouard philippe,2021/1,11,0.611153552330023
+ouestaf.com,usman sonko,2021/3,11,-5.525657609192493
+ouest-france.fr,hanus hansen,2021/3,11,0.216450216450216
+ouest-france.fr,abu bakar bashir,2021/1,11,-7.08263069139966
+sudouest.fr,maung zaw,2021/2,11,-5.16795865633075
+ouest-france.fr,mark rutte,2021/3,11,0.216450216450216
+sudouest.fr,michel charasse,2021/1,11,0.611153552330023
+ouest-france.fr,alexander grushko,2021/3,11,-6.12745098039216
+sudouest.fr,rohingya aung hlaing,2021/2,11,-5.16795865633075
+ouest-france.fr,brest bertrand,2021/3,11,-2.9227557411273506
+ouest-france.fr,anne hidalgo,2021/3,11,-2.5089340190011318
+ouest-france.fr,cornelis vrolijk,2021/3,11,0.216450216450216
+ouest-france.fr,asa hutchinson,2021/3,10,-5.824684745006136
+ouest-france.fr,saint-nazaire violaine lucas,2021/3,10,-0.729040097205346
+ouest-france.fr,anthony williams,2021/1,10,-6.41330166270784
+sudouest.fr,icela rodriguez,2021/3,10,-4.72589792060491
+ouest-france.fr,violaine lucas,2021/3,10,-0.729040097205346
+ouest-france.fr,lluis puig,2021/1,10,-4.48877805486284
+ouest-france.fr,roj roj,2021/3,10,-2.15311004784689
+sudouest.fr,fabian leendertz,2021/1,10,-4.40140845070423
+ouest-france.fr,thierry herzog,2021/3,10,-4.386549764677138
+ouest-france.fr,henri atlan,2021/3,10,-0.729040097205346
+ouest-france.fr,benyamin netanyahu,2021/3,10,-8.3969465648855
+ouest-france.fr,sarah el,2021/2,10,-0.03714928145468761
+sudouest.fr,ugur sahin,2021/1,10,0.051516003741272395
+ouest-france.fr,jim brewster,2021/1,10,-6.41330166270784
+ouest-france.fr,stefano maggi,2021/3,10,1.16504854368932
+sudouest.fr,andrew cuomo,2021/3,10,-5.9915611814346
+ouest-france.fr,luc mlenchon,2021/3,10,-2.087252592243083
+ouest-france.fr,nicolas dupont-aignan,2021/3,10,-2.0351350011771525
+ouest-france.fr,tariq arian,2021/1,10,-5.53359683794466
+sudouest.fr,nancy pelosi,2021/1,10,-4.590275087175515
+ouest-france.fr,carles puigdemont,2021/1,10,-4.48877805486284
+ouest-france.fr,kim kardashian,2021/1,10,-0.48426150121065403
+ouest-france.fr,john fetterman,2021/1,10,-6.41330166270784
+ouest-france.fr,jake corman,2021/1,10,-6.41330166270784
+sudouest.fr,lopez obrador,2021/3,10,-4.72589792060491
+ouest-france.fr,rodong sinmun,2021/1,10,-0.48426150121065403
+sudouest.fr,marlon ramirez,2021/3,10,-4.72589792060491
+ouest-france.fr,laura daniel,2021/2,10,-1.1049501767920304
+ouest-france.fr,qassem soleimani,2021/1,10,-7.011533543494503
+sudouest.fr,wang yi,2021/1,10,-4.40140845070423
+ouest-france.fr,simone veil,2021/3,10,-0.729040097205346
+sudouest.fr,tom andrews,2021/2,10,-4.418215577432643
+ouest-france.fr,george floyd,2021/1,10,-1.765281636776963
+ouest-france.fr,souladakis hubert,2021/3,10,-2.15311004784689
+sudouest.fr,emma coronel,2021/3,10,-4.72589792060491
+ouest-france.fr,tom wolf,2021/1,10,-6.41330166270784
+sudouest.fr,calais michel tournaire,2021/1,10,-3.5525948382464443
+sudouest.fr,gabriel attal,2021/3,10,-2.6910439000422164
+ouest-france.fr,afp stefano maggi,2021/3,10,1.16504854368932
+sudouest.fr,natalia repnikova,2021/3,10,-8.06045340050378
+ouest-france.fr,kim jong,2021/1,10,-0.48426150121065403
+ouest-france.fr,mister you,2021/3,10,-4.6195652173913
+sudouest.fr,hisham el hanafi,2021/3,9,-5.31732418524871
+ouest-france.fr,ali khamenei,2021/3,9,0.573065902578796
+ouest-france.fr,lokman slim,2021/2,9,-4.83870967741936
+ouestaf.com,issoufou mahamadou,2021/2,9,-0.475866757307954
+ouest-france.fr,george pompidou,2021/1,9,-1.4843544894228755
+sudouest.fr,michel tournaire,2021/1,9,-3.43053173241853
+ouest-france.fr,oprah winfrey meghan,2021/3,9,-1.73410404624277
+ouest-france.fr,sebastian kurz,2021/3,9,-6.77881197078405
+sudouest.fr,pedro sanchez,2021/3,9,-2.5644939595892313
+ouest-france.fr,heiko maas,2021/2,9,-5.08849557522124
+ouest-france.fr,souladakis lrem,2021/3,9,-1.13122171945701
+ouest-france.fr,quentin pauchet,2021/1,9,-3.42612419700214
+ouest-france.fr,rasha al-ameer,2021/2,9,-4.83870967741936
+sudouest.fr,joe biden alejandro mayorkas,2021/2,9,-0.17282945365137167
+ouestaf.com,saley daouda,2021/2,9,-0.475866757307954
+sudouest.fr,armen sarkisian,2021/3,9,-6.08695652173913
+sudouest.fr,euronext ipos,2021/1,9,-3.08324768756423
+sudouest.fr,marcelo rebelo sousa,2021/1,9,-3.08324768756423
+ouest-france.fr,rasmus schultz,2021/1,9,-7.82312925170068
+ouest-france.fr,emmanuel faber,2021/3,9,-0.8652438878092089
+ouest-france.fr,sinn fein,2021/3,9,-3.32480818414322
+ouest-france.fr,bernard cazeneuve,2021/2,9,-2.58358662613982
+ouest-france.fr,christophe castaner,2021/3,9,-1.6139378899005243
+ouest-france.fr,alexander lukashenko,2021/1,9,-1.35135135135135
+ouest-france.fr,afp khin maung zaw,2021/3,9,-8.63636363636364
+ouest-france.fr,audrey pulvar,2021/3,9,-1.13122171945701
+ouestaf.com,djibo mahamadou,2021/2,9,-0.475866757307954
+sudouest.fr,hisham el hanafi,2021/2,9,-5.31732418524871
+ouest-france.fr,charles michel,2021/1,9,0.746268656716418
+sudouest.fr,yassine bousseria,2021/3,9,-5.31732418524871
+ouestaf.com,macky sall,2021/3,9,-6.17957578228898
+ouestaf.com,hamet mamadou kau,2021/2,9,-0.475866757307954
+ouestaf.com,mamadou tandja,2021/2,9,-0.475866757307954
+ouest-france.fr,benyamin netanyahu,2021/1,9,-2.71668822768435
+ouest-france.fr,hushkit parcoursup,2021/3,9,1.38057984353428
+sudouest.fr,louie gohmert,2021/1,9,-2.77741386086729
+ouest-france.fr,yuriko koike,2021/1,9,-2.3438779185905623
+ouest-france.fr,emma bell,2021/3,9,-3.32480818414322
+ouest-france.fr,matthew boucheron,2021/2,9,-9.30232558139535
+sudouest.fr,hisham makran,2021/3,9,-5.31732418524871
+ouestaf.com,aboubacar hamani,2021/2,9,-0.475866757307954
+ouest-france.fr,odile jacob,2021/1,9,-2.35672201392608
+sudouest.fr,yassine bousseria,2021/2,9,-5.31732418524871
+sudouest.fr,david schoen,2021/2,9,-3.560195072933229
+ouest-france.fr,vaccinlentreprise bayer,2021/1,9,-2.11565585331453
+ouest-france.fr,steffen seibert,2021/2,9,-7.946068723782539
+sudouest.fr,nancy pelosi,2021/2,9,-3.49854227405248
+sudouest.fr,nagorny karabakh,2021/3,9,-6.08695652173913
+sudouest.fr,viktor orban,2021/1,9,-3.43053173241853
+sudouest.fr,jean-baptiste djebbari,2021/3,9,-5.21739130434783
+ouest-france.fr,macky sall,2021/3,9,-6.053395290157089
+ouest-france.fr,michael ryan,2021/2,9,-2.58358662613982
+ouest-france.fr,david mitchell,2021/3,9,-3.32480818414322
+ouestaf.com,assan abdoul nasser,2021/2,9,-0.475866757307954
+ouest-france.fr,julian lrem,2021/1,9,-1.4702055334188788
+ouest-france.fr,bell emma,2021/3,9,-3.32480818414322
+ouestaf.com,daouda algabid,2021/2,9,-0.475866757307954
+ouest-france.fr,usman sonko,2021/3,9,-6.053395290157089
+sudouest.fr,nikol pachinian,2021/3,9,-6.08695652173913
+ouest-france.fr,ian philips,2021/3,9,-8.63636363636364
+sudouest.fr,van king,2021/3,9,-8.51063829787234
+ouest-france.fr,arlene foster,2021/3,9,-3.32480818414322
+sudouest.fr,nicolas sarkozy,2021/2,9,-6.237965655006018
+ouestaf.com,moumouni hamidou,2021/2,9,-0.475866757307954
+sudouest.fr,liz cheney,2021/2,9,-3.49854227405248
+sudouest.fr,hisham makran,2021/2,9,-5.31732418524871
+ouest-france.fr,yoshihide suga,2021/1,9,-2.3438779185905623
+ouest-france.fr,walid kechida,2021/1,9,-8.04953560371517
+sudouest.fr,jacques chirac,2021/3,9,-3.8520770010131695
+ouest-france.fr,tanerii mauri,2021/1,9,-3.42612419700214
+sudouest.fr,serge sarkisian,2021/3,9,-6.08695652173913
+sudouest.fr,steny hoyer,2021/2,9,-3.49854227405248
+ouestaf.com,mano dayak,2021/2,9,-0.475866757307954
+ouest-france.fr,fabian roussel,2021/3,9,-1.13122171945701
+sudouest.fr,kevin mccarthy,2021/2,9,-3.49854227405248
+sudouest.fr,tom malinowski,2021/2,9,-3.49854227405248
+ouest-france.fr,samir kassir,2021/2,9,-4.83870967741936
+ouest-france.fr,vincent brengarth,2021/3,9,-4.61538461538461
+sudouest.fr,luc besson,2021/3,9,-8.51063829787234
+sudouest.fr,barack obama,2021/2,9,-0.17282945365137167
+sudouest.fr,matt gaetz,2021/2,9,-3.49854227405248
+ouest-france.fr,ziad takieddine,2021/3,9,-5.731702266249487
+sudouest.fr,december darfur,2021/1,8,-3.83522727272727
+ouest-france.fr,dominic pezzola,2021/2,8,-5.46654099905749
+sudouest.fr,carlos sainz,2021/1,8,-1.39049826187717
+sudouest.fr,linde ann,2021/2,8,-8.91938250428817
+sudouest.fr,michael ryan,2021/2,8,-4.35835351089588
+sudouest.fr,lluis puig,2021/3,8,-2.626943610142605
+sudouest.fr,edward balladur,2021/1,8,-2.0460358056266
+ouestaf.com,serge balima,2021/2,8,-2.80777537796976
+sudouest.fr,sheikh nawaf al-ahmad al-sabah,2021/1,8,0.0
+ouest-france.fr,william jr,2021/2,8,-5.46654099905749
+sudouest.fr,jair bolsonaro,2021/3,8,-4.387056571702006
+ouest-france.fr,sarah matthews,2021/1,8,-3.2846808099602978
+sudouest.fr,khin maung,2021/3,8,-7.32984293193717
+sudouest.fr,nasser al-attiyah ricky brabec,2021/1,8,-1.39049826187717
+ouest-france.fr,rachel powell,2021/2,8,-5.46654099905749
+sudouest.fr,jonathan powell clayton,2021/1,8,-5.21042084168337
+ouest-france.fr,emily hernandez,2021/2,8,-5.46654099905749
+ouestaf.com,brice bicaba,2021/2,8,-2.80777537796976
+sudouest.fr,edouard balladur,2021/1,8,-2.0460358056266
+ouest-france.fr,stephanie grisham,2021/1,8,-3.2846808099602978
+ouest-france.fr,matt hancock,2021/2,8,0.472813238770686
+sudouest.fr,ibrahim sangare,2021/2,8,-4.59183673469388
+ouestaf.com,ouestaf ouestafnews,2021/2,8,-2.80777537796976
+ouest-france.fr,jean-baptiste djebbari,2021/3,8,-2.8743024066968963
+sudouest.fr,alexander bortnikov,2021/3,8,-8.30324909747292
+ouestaf.com,roch marc christian,2021/2,8,-2.80777537796976
+sudouest.fr,carles puigdemont,2021/3,8,-2.626943610142605
+ouest-france.fr,andrew pollard,2021/2,8,0.472813238770686
+ouest-france.fr,teodoro nguema obiang,2021/3,8,-6.95410292072323
+sudouest.fr,adrien van,2021/1,8,-1.39049826187717
+sudouest.fr,boris vallaud,2021/1,8,-0.9885741885931912
+sudouest.fr,mohamed morsi,2021/1,8,-5.21042084168337
+sudouest.fr,camille kouchner,2021/2,8,-7.598566308243726
+ouest-france.fr,kamel daoudi,2021/2,8,-5.9967585089141
+ouest-france.fr,teodoro obiang nguema,2021/3,8,-6.95410292072323
+ouest-france.fr,roselyne bachelot,2021/2,8,1.578646959865415
+ouest-france.fr,steven nelson,2021/1,8,-4.41640378548896
+ouest-france.fr,manon deshayes,2021/3,8,-1.42679900744417
+sudouest.fr,hubert caouissin,2021/2,8,-2.8169014084507
+sudouest.fr,jean-jacques bourdin,2021/2,8,-7.32600732600733
+ouest-france.fr,josh hawley,2021/1,8,-2.52747252747253
+sudouest.fr,pablo quintanilla,2021/1,8,-1.39049826187717
+ouest-france.fr,jonathan april thomas guilbaud,2021/3,8,-2.07253886010363
+sudouest.fr,lydia troadec,2021/2,8,-2.8169014084507
+sudouest.fr,thierry fillion,2021/2,8,-2.8169014084507
+ouest-france.fr,sea a granville,2021/1,8,0.16366612111293
+ouest-france.fr,andrew cuomo,2021/3,8,-2.9787734639919763
+ouest-france.fr,christine lagarde,2021/3,8,-1.42679900744417
+ouest-france.fr,jill biden,2021/2,8,-4.14507772020725
+ouest-france.fr,calais michel tournaire,2021/1,8,-3.06099283624256
+ouest-france.fr,ryan samsel,2021/2,8,-5.46654099905749
+ouest-france.fr,derrick evans,2021/2,8,-5.46654099905749
+ouest-france.fr,jean-jacques annaud,2021/3,8,-3.92156862745098
+ouest-france.fr,bruno retailleau,2021/1,8,-1.278179653877851
+ouest-france.fr,bessin huppain,2021/1,8,1.89393939393939
+sudouest.fr,maria zakharova,2021/2,8,-8.91938250428817
+ouest-france.fr,jake angeli,2021/2,8,-5.46654099905749
+sudouest.fr,sheikh ahmed nasser al-sabah,2021/1,8,0.0
+ouest-france.fr,hasan rohani,2021/3,8,-3.202842239727485
+sudouest.fr,pedro simas,2021/2,8,-1.7214696223316888
+sudouest.fr,hamad al-thani,2021/1,8,0.0
+ouest-france.fr,michelle bachelet,2021/3,8,-6.955609523663138
+sudouest.fr,thierry sabine,2021/1,8,-1.39049826187717
+ouest-france.fr,lindsey boylan,2021/3,8,-2.9787734639919763
+ouest-france.fr,damien abad,2021/3,8,-2.8018590032698136
+ouest-france.fr,lonnie coffman,2021/2,8,-5.46654099905749
+sudouest.fr,ashraf eissa,2021/1,8,-3.83522727272727
+ouest-france.fr,delage letterpost,2021/3,8,-2.792058188756756
+sudouest.fr,mohamed hasan,2021/1,8,-3.83522727272727
+sudouest.fr,ziad takieddine,2021/2,8,-7.32600732600733
+ouest-france.fr,obiang nguema,2021/3,8,-6.95410292072323
+sudouest.fr,abdel fattah al-sissi,2021/1,8,-5.21042084168337
+sudouest.fr,nasser al-attiyah,2021/1,8,-1.39049826187717
+ouest-france.fr,christophe chaillou,2021/3,8,-2.96610169491525
+ouest-france.fr,jacinda ardern,2021/3,8,-1.42679900744417
+sudouest.fr,thomas markle,2021/3,8,-0.8091778564004575
+ouest-france.fr,alain fischer,2021/1,8,-1.2854790994634897
+sudouest.fr,loujain al-hathloul,2021/1,8,-1.39049826187717
+sudouest.fr,monique lubin,2021/1,8,-0.9885741885931912
+sudouest.fr,cyril despres,2021/1,8,-1.39049826187717
+sudouest.fr,luiz inacio lula,2021/3,8,-4.387056571702006
+ouest-france.fr,jason biggs,2021/2,8,-5.46654099905749
+ouest-france.fr,alberto bachelet,2021/3,8,-7.87172011661808
+sudouest.fr,maria van kerkhove,2021/2,8,-4.35835351089588
+ouest-france.fr,axel kahn,2021/1,8,-1.127963125548728
+sudouest.fr,abbas araghchi,2021/2,8,-4.67289719626168
+sudouest.fr,mario draghi,2021/3,8,-0.6457564575645758
+sudouest.fr,mohamed abdelrahman,2021/1,8,-3.83522727272727
+ouest-france.fr,christopher alberts,2021/2,8,-5.46654099905749
+ouest-france.fr,africa socorridos,2021/3,8,-6.95410292072323
+ouest-france.fr,nkoa ntoma,2021/3,8,-6.95410292072323
+ouest-france.fr,adam johnson,2021/2,8,-5.46654099905749
+ouest-france.fr,louie gohmert,2021/1,8,-2.52747252747253
+sudouest.fr,bernard preynat,2021/1,8,-3.91705069124424
+sudouest.fr,gerald darmanin,2021/2,7,-3.233853865432811
+ouest-france.fr,tedros adhanom,2021/2,7,-0.3003003003003
+ouest-france.fr,jen psaki,2021/2,7,-5.95854922279793
+sudouest.fr,khin nyein,2021/2,7,-4.02684563758389
+ouest-france.fr,tedros adhanom,2021/3,7,-1.903662073036157
+ouest-france.fr,tanus tarn,2021/2,7,-5.95854922279793
+sudouest.fr,edouard philippe,2021/3,7,-3.2524271844660197
+sudouest.fr,paul kelly,2021/3,7,-4.8689138576779
+sudouest.fr,anne hidalgo,2021/1,7,-3.2086326816841715
+sudouest.fr,mariano rajoy,2021/3,7,-1.0498687664042
+sudouest.fr,franck riester,2021/1,7,-1.8421052631578998
+ouest-france.fr,jake sullivan,2021/2,7,-3.58306188925081
+ouest-france.fr,anthony simon,2021/2,7,0.324149108589951
+ouest-france.fr,jacques santoni,2021/3,7,-8.38852097130243
+sudouest.fr,maarten luther king,2021/2,7,-3.3442622950819705
+ouest-france.fr,hamad al-thani,2021/1,7,3.88349514563107
+ouest-france.fr,mark warner,2021/3,7,-1.9204389574759897
+ouest-france.fr,jon ossof,2021/1,7,-0.111234705228031
+ouest-france.fr,ilhan omar,2021/1,7,-0.111234705228031
+ouest-france.fr,emmanuel cumulerait faber,2021/3,7,-0.950118764845606
+sudouest.fr,andrew pollard,2021/2,7,-0.6231003039513674
+sudouest.fr,los angeles,2021/3,7,-3.0625276548092613
+ouest-france.fr,sheikh ahmed nasser al-sabah,2021/1,7,-1.02040816326531
+ouest-france.fr,florence vincent,2021/2,7,-7.7013651438414295
+ouest-france.fr,samir abboud,2021/3,7,-2.14592274678112
+sudouest.fr,sitsang oxford,2021/2,7,-3.3442622950819705
+sudouest.fr,artur paiva,2021/2,7,-1.4367816091954
+ouest-france.fr,arnon milchan,2021/2,7,-2.39520958083832
+ouest-france.fr,michael sherwin,2021/1,7,-3.9361702127659606
+ouest-france.fr,rachid temal,2021/1,7,-1.37313432835821
+sudouest.fr,nicholas farrelly,2021/2,7,-3.3442622950819705
+sudouest.fr,michel rocard,2021/3,7,-3.2524271844660197
+ouest-france.fr,alessandra biaggi,2021/3,7,-2.70655270655271
+ouest-france.fr,darius rochebin,2021/1,7,-6.2874251497006
+sudouest.fr,laurent fabius,2021/3,7,-3.2524271844660197
+sudouest.fr,liang wannian,2021/2,7,-2.5679758308157097
+sudouest.fr,jean-marc ayrault,2021/3,7,-3.2524271844660197
+ouest-france.fr,sheikh nawaf al-ahmad al-sabah,2021/1,7,-1.02040816326531
+ouest-france.fr,sarim fassi-fihri,2021/3,7,-5.69105691056911
+ouest-france.fr,charlie dalin,2021/1,7,-0.639179371427352
+ouest-france.fr,dashli babbitt,2021/1,7,-1.77514792899408
+ouest-france.fr,achilles achilles,2021/3,7,-2.00471698113208
+ouest-france.fr,selahattin demirtas,2021/3,7,0.630914826498423
+ouest-france.fr,harry meghan,2021/3,7,-2.00471698113208
+ouest-france.fr,mick mulvaney,2021/1,7,-3.9361702127659606
+sudouest.fr,michael taylor,2021/3,7,-4.8689138576779
+ouest-france.fr,john east,2021/2,7,-0.37073652990607997
+sudouest.fr,rufus gifford,2021/1,7,0.7802340702210658
+sudouest.fr,marion koopmans,2021/2,7,-2.5679758308157097
+ouest-france.fr,william walker,2021/3,7,-1.9204389574759897
+sudouest.fr,roberto fico,2021/3,7,-0.7380073800738008
+ouest-france.fr,khin maung,2021/3,7,-5.69105691056911
+ouest-france.fr,youssef el,2021/3,7,-2.14592274678112
+ouest-france.fr,erwan challot,2021/2,7,0.126582278481013
+ouest-france.fr,yoann bonnafous,2021/2,7,-5.95854922279793
+sudouest.fr,viktor orban,2021/3,7,0.284900284900285
+sudouest.fr,michel monvoisin,2021/2,7,-1.00502512562814
+ouest-france.fr,tayyip erdogan,2021/3,7,0.630914826498423
+sudouest.fr,emmanuel faber,2021/3,7,-1.8024439065653814
+sudouest.fr,mark rutte,2021/3,7,-1.696331436268233
+ouestaf.com,kor massar,2021/3,7,-5.792163543441229
+ouest-france.fr,queen king,2021/2,7,2.80603297088741
+ouest-france.fr,justice john roberts,2021/1,7,-1.77514792899408
+ouest-france.fr,nora quoirin,2021/1,7,-9.18367346938776
+ouest-france.fr,nicolas hulot,2021/2,7,-3.575298465586964
+sudouest.fr,saad hariri,2021/3,7,-6.84039087947883
+ouest-france.fr,valerie pcresse,2021/3,7,-0.14936742834365432
+sudouest.fr,dalton donald,2021/1,7,0.7802340702210658
+ouest-france.fr,franck dubray,2021/1,7,-4.1372992839774545
+sudouest.fr,thea kolsen fischer,2021/2,7,-2.5679758308157097
+ouest-france.fr,dalton donald,2021/1,7,-0.111234705228031
+ouest-france.fr,nicolas sarkozy,2021/1,7,-4.237893555940009
+ouest-france.fr,rufus gifford,2021/1,7,-0.111234705228031
+ouest-france.fr,yannick bestaven,2021/1,7,-0.515038806110316
+sudouest.fr,ibrahim boubacar,2021/1,7,-4.638381146687764
+sudouest.fr,phil robertson,2021/2,7,-3.3442622950819705
+ouest-france.fr,mazie hirono,2021/3,7,-2.70655270655271
+sudouest.fr,afp giuliano,2021/3,7,-0.7380073800738008
+ouest-france.fr,ashli babbitt,2021/1,7,-1.77514792899408
+sudouest.fr,lai xiaomin,2021/1,7,-4.3261231281198
+sudouest.fr,ren zhiqiang,2021/1,7,-4.3261231281198
+ouest-france.fr,ayuba abdullahi,2021/2,7,-7.88804071246819
+ouest-france.fr,timothy blodgett,2021/3,7,-1.9204389574759897
+ouest-france.fr,jacques billant,2021/3,7,-0.593119810201661
+ouest-france.fr,benyamin netanyahu,2021/2,7,-2.39520958083832
+sudouest.fr,dave wasserman,2021/1,7,0.7802340702210658
+ouestaf.com,assane diagne,2021/3,7,-5.792163543441229
+sudouest.fr,michael aris,2021/2,7,-3.3442622950819705
+ouest-france.fr,eric ciotti,2021/1,7,-1.37313432835821
+sudouest.fr,kyaw kyaw,2021/2,7,-4.02684563758389
+ouest-france.fr,dave wasserman,2021/1,7,-0.111234705228031
+sudouest.fr,dordogne a perigueux,2021/2,7,-1.9512993945738029
+ouest-france.fr,christian lacroix,2021/2,7,2.80603297088741
+ouest-france.fr,suzie states,2021/3,7,-4.37226733291693
+ouest-france.fr,damien seguin,2021/1,7,-1.1835656593192865
+ouest-france.fr,stephanie tully,2021/3,7,-0.676818950930626
+ouest-france.fr,tedros adhanom ghebreyesus,2021/2,7,-0.3003003003003
+ouestaf.com,moustapha diop,2021/3,7,-5.792163543441229
+ouest-france.fr,denis lambert,2021/2,7,1.7639136436613516
+sudouest.fr,reims matthew,2021/2,7,-1.81818181818182
+ouestaf.com,quousmane sonko,2021/3,7,-5.792163543441229
+ouest-france.fr,yedioth ahronoth,2021/2,7,-2.39520958083832
+ouest-france.fr,atlantic retz,2021/2,6,-1.40845070422535
+ouest-france.fr,jean-paul troadec,2021/3,6,-1.65912518853695
+ouest-france.fr,montbrial thibault,2021/3,6,-7.72727272727273
+ouest-france.fr,nagorny karabakh,2021/1,6,-2.46153846153846
+ouest-france.fr,claudia mo,2021/3,6,-7.114624505928849
+sudouest.fr,ahmed al,2021/3,6,-5.8027079303675
+ouest-france.fr,fidan dogan,2021/1,6,-5.85683297180043
+ouest-france.fr,europe philippe jurgensen,2021/2,6,-1.7114914425427898
+ouest-france.fr,matt pottinger,2021/1,6,-2.9023746701847
+ouest-france.fr,augusto santos silva,2021/1,6,-2.46153846153846
+sudouest.fr,danny altmann,2021/3,6,-1.7241379310344798
+ouest-france.fr,meps fidesz,2021/3,6,-2.40585774058577
+sudouest.fr,abdelhakim sefrioui,2021/3,6,-8.39506172839506
+ouest-france.fr,charles michel,2021/3,6,-5.35714285714286
+sudouest.fr,myo nyunt,2021/2,6,-4.66666666666667
+ouest-france.fr,ingrid betancourt,2021/2,6,-7.014681892332791
+ouest-france.fr,alexis mcgill johnson,2021/3,6,-6.06796116504854
+ouest-france.fr,sunni imam al-azhar,2021/3,6,0.3642987249544631
+ouest-france.fr,luc simon,2021/3,6,-3.3599471633152866
+ouest-france.fr,jurgen klopp,2021/2,6,-3.1278748850046
+ouest-france.fr,kevin lamarque,2021/1,6,-3.3149171270718205
+ouest-france.fr,antony blinken,2021/1,6,-4.92813141683778
+sudouest.fr,hill catherine,2021/2,6,-0.650195058517556
+ouest-france.fr,lucas barioulet,2021/2,6,2.3972602739726
+ouest-france.fr,goldsmith zac,2021/3,6,-3.60824742268041
+ouest-france.fr,avecioannis papadopoulos,2021/2,6,-3.1278748850046
+ouest-france.fr,patrick gomont,2021/2,6,0.840336134453782
+ouest-france.fr,emmanuelle white,2021/3,6,1.7119838872104698
+ouest-france.fr,diyar dogan,2021/1,6,-5.85683297180043
+ouest-france.fr,yousri dali,2021/3,6,-1.96917808219178
+sudouest.fr,yannick jadot,2021/1,6,-3.77358490566038
+sudouest.fr,franklin delano roosevelt,2021/2,6,-1.06666666666667
+ouest-france.fr,joshua wong,2021/1,6,-4.92813141683778
+sudouest.fr,palestinian mahmoud abbas,2021/3,6,-1.91387559808612
+ouest-france.fr,saoud al-qahtani,2021/3,6,-6.96629213483146
+sudouest.fr,anthony fauci,2021/1,6,-2.37430167597765
+ouest-france.fr,afp yekbun,2021/1,6,-5.85683297180043
+ouest-france.fr,meghan markle,2021/2,6,1.21951219512195
+ouest-france.fr,jamal khashoggi,2021/3,6,-6.96629213483146
+ouest-france.fr,pascal soriot,2021/2,6,0.9501187648456059
+sudouest.fr,jen psaki,2021/2,6,-4.66666666666667
+ouest-france.fr,joshua wong,2021/3,6,-7.114624505928849
+ouest-france.fr,delage letterpost,2021/1,6,-2.171433069621217
+ouest-france.fr,hannah mckay,2021/3,6,3.00429184549356
+ouest-france.fr,debbie wasserman schultz,2021/1,6,-3.75494071146245
+sudouest.fr,quhamou benlatreche,2021/1,6,-6.666666666666669
+ouest-france.fr,mario draghi,2021/3,6,-2.40585774058577
+sudouest.fr,fabian roussel,2021/1,6,-3.77358490566038
+sudouest.fr,yann herrera,2021/3,6,-2.82352941176471
+ouest-france.fr,jean-claude juncker,2021/3,6,-2.40585774058577
+ouest-france.fr,fabian keller,2021/2,6,-1.7114914425427898
+ouest-france.fr,chris liddell,2021/1,6,-2.9023746701847
+sudouest.fr,putin vladimir,2021/2,6,-4.73372781065089
+sudouest.fr,bruno nicolas sarkozy,2021/3,6,-0.303030303030303
+sudouest.fr,alan baker,2021/3,6,-1.91387559808612
+ouest-france.fr,larem antoine,2021/2,6,-1.7114914425427898
+ouest-france.fr,idriss sihamedi,2021/3,6,-7.72727272727273
+sudouest.fr,lrem lebec,2021/1,6,-3.77358490566038
+sudouest.fr,guillaume durand,2021/1,6,-3.85093167701863
+ouest-france.fr,catherine trautmann,2021/2,6,-1.7114914425427898
+ouest-france.fr,afp cyril,2021/2,6,0.759493670886076
+ouest-france.fr,john lee,2021/1,6,-4.92813141683778
+sudouest.fr,gaza gaza,2021/3,6,-1.91387559808612
+ouest-france.fr,pope franois,2021/3,6,-2.08608451634203
+sudouest.fr,guay udde,2021/1,6,-3.85093167701863
+sudouest.fr,carole ghosn,2021/3,6,-4.08163265306122
+ouest-france.fr,alexander lukashenko,2021/2,6,-1.7114914425427898
+ouest-france.fr,philippe laurent,2021/2,6,-1.7114914425427898
+ouest-france.fr,zohra bitan,2021/3,6,-7.72727272727273
+ouest-france.fr,tiffany yuen,2021/1,6,-4.92813141683778
+ouest-france.fr,touquet fasquelle,2021/3,6,-0.295420974889217
+sudouest.fr,arabia arabia,2021/3,6,-5.8027079303675
+sudouest.fr,philippe albert,2021/2,6,-4.66666666666667
+sudouest.fr,oriol junqueras,2021/3,6,-3.0018761726078806
+sudouest.fr,marise payne,2021/2,6,-4.66666666666667
+sudouest.fr,tyra krause,2021/1,6,-3.47003154574132
+ouest-france.fr,antivaccins europe,2021/1,6,-2.75974025974026
+ouest-france.fr,laurent gerra,2021/1,6,-1.6483516483516503
+ouest-france.fr,carlos ghosn,2021/3,6,-7.69230769230769
+ouest-france.fr,geoffroy didier,2021/3,6,-2.40585774058577
+ouest-france.fr,rickie niceta,2021/1,6,-2.9023746701847
+ouest-france.fr,herbert kickl,2021/3,6,-7.85340314136126
+ouest-france.fr,afp islamologist,2021/2,6,-6.188925081433221
+sudouest.fr,clara ponsati,2021/3,6,-3.0018761726078806
+ouest-france.fr,mohammed al-otaibi,2021/3,6,-6.96629213483146
+sudouest.fr,brahim chnina,2021/3,6,-8.39506172839506
+sudouest.fr,greg kelly,2021/3,6,-4.08163265306122
+sudouest.fr,meshulam dovid,2021/3,6,-1.91387559808612
+ouest-france.fr,manfred weber,2021/3,6,-2.40585774058577
+sudouest.fr,abdelmajid tebboune,2021/2,6,-2.7295285359801498
+ouest-france.fr,fidesz viktor orban,2021/3,6,-2.40585774058577
+ouest-france.fr,raif badawi,2021/3,6,-6.96629213483146
+sudouest.fr,erna solberg,2021/1,6,-3.9902653328908464
+ouest-france.fr,thomas ruyant,2021/1,6,-0.6640099202600153
+ouest-france.fr,carole ghosn,2021/3,6,-7.69230769230769
+ouest-france.fr,clifford stott,2021/3,6,-7.114624505928849
+ouest-france.fr,ademe a lacroix,2021/2,6,0.78125
+ouest-france.fr,kalidou koulibaly,2021/2,6,-3.1278748850046
+ouest-france.fr,meghan harry,2021/3,6,-3.60824742268041
+ouest-france.fr,john clancey,2021/1,6,-4.92813141683778
+sudouest.fr,meps catalan,2021/3,6,-3.0018761726078806
+ouest-france.fr,kamala harris,2021/1,6,1.6733770807844899
+sudouest.fr,catalan carles,2021/3,6,-3.0018761726078806
+ouest-france.fr,paul grisham,2021/2,6,-1.98412698412698
+ouest-france.fr,europe nathalie,2021/2,6,-1.7114914425427898
+ouest-france.fr,claudia mo,2021/1,6,-4.92813141683778
+sudouest.fr,franck riester,2021/3,6,-2.82352941176471
+ouest-france.fr,nicola mannion,2021/3,6,-5.35714285714286
+ouestaf.com,alassane ouattara,2021/3,6,0.387596899224806
+ouest-france.fr,johns hopkins,2021/1,6,-2.7120214768054414
+ouest-france.fr,thierry breton,2021/3,6,-1.710718368064715
+ouest-france.fr,yves clement,2021/2,6,-1.7114914425427898
+ouest-france.fr,dominic raab,2021/3,6,-5.35714285714286
+ouest-france.fr,adam schiff,2021/1,6,-3.75494071146245
+ouest-france.fr,sakine cansiz,2021/1,6,-5.85683297180043
+ouest-france.fr,amir saadouni,2021/2,6,-7.014681892332791
+ouest-france.fr,lady diana,2021/3,6,-3.60824742268041
+sudouest.fr,paul marsan,2021/2,6,-0.650195058517556
+sudouest.fr,myint swe,2021/2,6,-4.66666666666667
+sudouest.fr,carlos carole ghosn,2021/3,6,-4.08163265306122
+ouest-france.fr,ahmed ouyahia,2021/1,6,-3.6096256684492
+ouest-france.fr,denis lambert,2021/3,6,0.7978237850074864
+sudouest.fr,gila gamliel,2021/3,6,-6.29370629370629
+sudouest.fr,eric nelson,2021/3,6,-5.0215164603083595
+ouest-france.fr,assadollah assadi,2021/2,6,-7.014681892332791
+ouest-france.fr,louise witter,2021/1,6,-3.6096256684492
+sudouest.fr,alexandra cordebard,2021/1,6,-3.85093167701863
+sudouest.fr,yoshihide suga,2021/1,6,-1.7155628583291402
+ouest-france.fr,george bush,2021/3,6,-6.06796116504854
+ouest-france.fr,xavier bertrand,2021/3,6,-2.446129464677212
+ouest-france.fr,sarkozy nicolas sarkozy,2021/3,6,-0.3401360544217689
+ouest-france.fr,michael jackson,2021/3,5,-1.35658914728682
+ouest-france.fr,annie genevard,2021/3,5,-2.89115646258503
+ouest-france.fr,jacqueline veyrac,2021/1,5,-5.08982035928144
+ouest-france.fr,muriel bowser,2021/1,5,-4.12979351032448
+sudouest.fr,jacob anthony,2021/1,5,-6.03448275862069
+ouest-france.fr,anne hidalgo,2021/1,5,-4.84261501210654
+sudouest.fr,jake angeli,2021/1,5,-6.03448275862069
+ouest-france.fr,thierry mariani,2021/3,5,-2.89115646258503
+sudouest.fr,ali al-sistani,2021/3,5,-3.18840579710145
+ouest-france.fr,square lafayette,2021/2,5,5.83756345177665
+ouest-france.fr,jamie raskin,2021/1,5,-3.5765057987280224
+ouest-france.fr,emma lavigne,2021/2,5,0.864560949044774
+ouest-france.fr,carlos tavares,2021/1,5,0.528401585204756
+sudouest.fr,mary donegam,2021/2,5,-0.561009817671809
+ouest-france.fr,greg abbott,2021/3,5,-1.02639296187683
+ouest-france.fr,yasutoshi nishimura,2021/1,5,-3.06513409961686
+ouest-france.fr,hatem salah,2021/1,5,-4.18943533697632
+ouest-france.fr,kaung myat hlaing,2021/3,5,-4.0625
+ouest-france.fr,eric dupond-moretti,2021/2,5,-4.348783561606822
+ouest-france.fr,saddam hussein,2021/1,5,-4.18943533697632
+sudouest.fr,derrick evans,2021/1,5,-6.03448275862069
+sudouest.fr,antonio guterres,2021/3,5,-6.35964912280702
+ouest-france.fr,november carlos tavares,2021/1,5,0.528401585204756
+sudouest.fr,josu urrutikoetxea,2021/1,5,-2.95566502463054
+ouest-france.fr,thierry breton,2021/2,5,-0.9787609180350347
+sudouest.fr,kaung myat hlaing,2021/3,5,-7.62886597938144
+ouest-france.fr,christian jacob,2021/3,5,-2.89115646258503
+ouest-france.fr,guillaume durand,2021/1,5,-4.84261501210654
+ouest-france.fr,june fabio panetta,2021/2,5,-5.69476082004556
+ouest-france.fr,sergei lavrov,2021/2,5,-4.05797101449275
+sudouest.fr,philip keizer,2021/2,5,-0.561009817671809
+ouest-france.fr,brownie young,2021/1,5,-3.23741007194245
+sudouest.fr,kamala harris,2021/1,5,-1.046424036329983
+ouest-france.fr,dany leprince,2021/3,5,-5.395208753724562
+sudouest.fr,paul aussaresses,2021/3,5,-5.62091503267974
+ouest-france.fr,thomas pesquet,2021/3,5,-4.42655935613682
+sudouest.fr,boris johnson,2021/2,5,-4.69973890339426
+sudouest.fr,biontech ugur sahin,2021/1,5,-0.619834710743802
+ouest-france.fr,addis ababa,2021/3,5,-5.06155950752394
+ouest-france.fr,roselyne bachelot,2021/3,5,-1.70940170940171
+sudouest.fr,asa hutchinson,2021/2,5,-1.11576011157601
+ouest-france.fr,britanniqueboris johnson,2021/3,5,-4.21545667447307
+ouestaf.com,etienne fakaba sissoko,2021/3,5,-0.656096227446692
+sudouest.fr,edouard balladur,2021/2,5,-6.86695278969957
+ouest-france.fr,lev ponomarev,2021/2,5,-5.28375733855186
+sudouest.fr,thomas kula,2021/2,5,-0.561009817671809
+ouest-france.fr,chunyan li,2021/3,5,-0.775193798449612
+ouest-france.fr,arnaud montebourg,2021/2,5,-0.952380952380952
+ouest-france.fr,nicolas sarkozy,2021/2,5,-2.0392339419081327
+ouest-france.fr,gerald darmanin,2021/3,5,-4.632048712227224
+sudouest.fr,ameer al halbi,2021/1,5,-6.23946037099494
+sudouest.fr,jund al-khilafa,2021/3,5,-7.568438003220609
+sudouest.fr,beaver jr,2021/2,5,-1.11576011157601
+ouest-france.fr,nicolas dupont-aignan,2021/1,5,0.759013282732448
+sudouest.fr,dugur sahin,2021/1,5,-0.619834710743802
+sudouest.fr,edward balladur,2021/2,5,-6.86695278969957
+ouest-france.fr,afp christophe,2021/2,5,-3.26086956521739
+sudouest.fr,ali khamenei,2021/1,5,-5.29661016949153
+sudouest.fr,marcus ryder,2021/3,5,-4.21940928270042
+sudouest.fr,jamie dimon,2021/1,5,-4.7438330170778
+sudouest.fr,ernesto olvera,2021/2,5,-0.561009817671809
+sudouest.fr,eve taylor,2021/2,5,-0.561009817671809
+sudouest.fr,michael corbat,2021/1,5,-4.7438330170778
+ouest-france.fr,myat hlaing,2021/3,5,-4.0625
+sudouest.fr,haas caroline,2021/2,5,-3.17124735729387
+sudouest.fr,christophe deloire,2021/1,5,-6.23946037099494
+sudouest.fr,caroline letoile,2021/2,5,-8.399083269671504
+ouest-france.fr,mazen darwish,2021/3,5,-6.06796116504854
+ouest-france.fr,pascal lelarge,2021/1,5,-2.10325047801147
+ouest-france.fr,johns hopkins,2021/3,5,-1.02639296187683
+ouest-france.fr,christophe bernard,2021/1,5,-2.6375478927203098
+sudouest.fr,charles dayot,2021/1,5,-0.346020761245674
+ouest-france.fr,eric dupond-moretti,2021/3,5,-3.3228030509598425
+ouest-france.fr,boris ravignon,2021/1,5,1.38740661686233
+sudouest.fr,angela merkel,2021/3,5,-2.84271047227926
+sudouest.fr,rudolph giuliani,2021/3,5,-2.81954887218045
+ouest-france.fr,vera jourova,2021/3,5,-5.0
+sudouest.fr,walter hall,2021/2,5,-0.561009817671809
+ouest-france.fr,romanyism bulgagrian,2021/2,5,-5.08021390374332
+sudouest.fr,eddy cue,2021/3,5,0.62111801242236
+ouest-france.fr,elizabeth warren,2021/1,5,-3.463560001964864
+ouest-france.fr,alexandra cordebard,2021/1,5,-4.84261501210654
+ouest-france.fr,chris casey,2021/3,5,-0.365853658536585
+ouest-france.fr,cftc psa,2021/1,5,0.528401585204756
+sudouest.fr,willy lubin,2021/2,5,-8.63309352517986
+ouest-france.fr,giuseppe berta,2021/1,5,0.528401585204756
+sudouest.fr,jund al-khilafa,2021/2,5,-7.79220779220779
+ouest-france.fr,simon maughan,2021/1,5,-2.20264317180617
+sudouest.fr,fabian picardo,2021/1,5,-3.8389513108614195
+sudouest.fr,sandrine rousseau,2021/2,5,-3.17124735729387
+ouest-france.fr,hasan rohani,2021/1,5,-6.16438356164384
+ouest-france.fr,tom mckenzie,2021/1,5,-4.12979351032448
+sudouest.fr,donald jr,2021/3,5,-2.81954887218045
+ouest-france.fr,macky sall,2021/1,5,-2.06337509211496
+sudouest.fr,eric swalwell,2021/3,5,-2.81954887218045
+sudouest.fr,maripierre massou,2021/1,5,-6.896551724137931
+ouest-france.fr,edward balladur,2021/3,5,-8.052251900955348
+ouest-france.fr,lydia marlin,2021/3,5,-1.35658914728682
+ouest-france.fr,oprah meghan,2021/3,5,-1.85185185185185
+ouest-france.fr,giuseppe serena,2021/1,5,-5.08982035928144
+sudouest.fr,jason miller,2021/3,5,-2.81954887218045
+ouest-france.fr,greg sargent,2021/1,5,-3.463560001964864
+ouest-france.fr,togo-pasteur godson lawson,2021/2,5,-5.08021390374332
+ouest-france.fr,mary jane,2021/3,5,-1.47058823529412
+ouest-france.fr,al khatib,2021/3,5,-6.06796116504854
+ouest-france.fr,steve kostas,2021/3,5,-6.06796116504854
+ouest-france.fr,gerald darmanin,2021/2,5,-1.195350515848818
+ouest-france.fr,igor zhdanov,2021/2,5,-5.28375733855186
+ouest-france.fr,doan cuong,2021/3,5,1.29032258064516
+ouest-france.fr,christine haas,2021/3,5,2.0746887966805
+sudouest.fr,adam johnson,2021/1,5,-6.03448275862069
+ouestaf.com,madibo mao makalou,2021/3,5,-0.656096227446692
+ouest-france.fr,paula claas,2021/1,5,0.334448160535117
+sudouest.fr,brian sicknick,2021/1,5,-7.886435331230279
+sudouest.fr,david schoen bruce,2021/2,5,-1.11576011157601
+ouest-france.fr,los angeles,2021/1,5,-2.06337509211496
+ouest-france.fr,a mary jane,2021/3,5,-1.47058823529412
+sudouest.fr,marjorie lebreton,2021/3,5,0.503355704697987
+sudouest.fr,romanyism bulgagrian,2021/2,5,-5.4380664652568
+ouest-france.fr,justin welby,2021/3,5,-0.365853658536585
+ouest-france.fr,thomas piketty,2021/2,5,-5.69476082004556
+sudouest.fr,ali khamenei,2021/2,5,-4.04984423676012
+sudouest.fr,bennie thompson,2021/3,5,-2.81954887218045
+ouest-france.fr,jean-claude ribault,2021/2,5,-2.42290748898678
+ouest-france.fr,helmut claas,2021/1,5,0.334448160535117
+sudouest.fr,adam kinzinger,2021/2,5,-1.11576011157601
+ouest-france.fr,alexis babin,2021/3,5,-4.85436893203884
+ouest-france.fr,patrick balkany,2021/1,5,-4.845390070921988
+sudouest.fr,mitch mcconnell,2021/3,5,-2.81954887218045
+ouest-france.fr,igor matovic,2021/3,5,1.9230769230769202
+sudouest.fr,lindsey boylan,2021/3,5,-6.66666666666667
+ouest-france.fr,abbey saint-serge,2021/3,5,-2.23880597014925
+sudouest.fr,guillermo klein,2021/3,5,-2.81954887218045
+ouest-france.fr,yoshihide suga,2021/2,5,-1.378424796692906
+ouest-france.fr,rohani hasan,2021/1,5,-6.16438356164384
+sudouest.fr,ashok kumar,2021/2,4,-4.84375
+sudouest.fr,baptist sallefranque,2021/3,4,-4.278933092224236
+ouest-france.fr,jeff bezos,2021/2,4,0.294695481335953
+ouest-france.fr,europe europe,2021/1,4,-3.18471337579618
+ouest-france.fr,ruth elkrief,2021/2,4,-0.420168067226891
+ouest-france.fr,thomas jefferson,2021/2,4,-3.6697247706422
+ouest-france.fr,david schoen bruce,2021/1,4,-3.29218106995885
+ouest-france.fr,anthony fauci,2021/3,4,0.0987166831194473
+sudouest.fr,jean-paul hamon,2021/3,4,-1.71919770773639
+ouest-france.fr,jacob kaplan,2021/2,4,-4.31654676258993
+ouest-france.fr,thierry magnan,2021/2,4,0.0
+ouest-france.fr,bruce beaver,2021/1,4,-3.29218106995885
+sudouest.fr,fidel castro,2021/2,4,-3.24675324675325
+ouest-france.fr,sheikh tidiane,2021/3,4,-4.7008547008547
+ouest-france.fr,reham yaaqoub,2021/1,4,-6.05326876513317
+ouest-france.fr,arnold schwarzenegger,2021/1,4,-2.51396648044693
+sudouest.fr,ricardo valdivia,2021/2,4,-4.29184549356223
+sudouest.fr,laurence magnin,2021/3,4,1.70940170940171
+ouest-france.fr,rupert colville,2021/3,4,-5.06108202443281
+sudouest.fr,cedric caubre,2021/2,4,-1.92962542565267
+sudouest.fr,nadu marsaudon,2021/3,4,2.72904483430799
+ouest-france.fr,sayidat al-najat,2021/3,4,-3.03030303030303
+ouest-france.fr,michel martelly,2021/2,4,-4.52127659574468
+sudouest.fr,luc mlenchon,2021/3,4,-1.6739682817839325
+ouest-france.fr,carles puigdemont,2021/3,4,-1.15207373271889
+sudouest.fr,alexandrian barnaba,2021/3,4,-4.278933092224236
+sudouest.fr,vimlendhu jha,2021/2,4,-4.84375
+ouest-france.fr,morgane rolland,2021/3,4,-5.52995391705069
+sudouest.fr,christian jacob,2021/3,4,-6.30372492836676
+ouest-france.fr,florence belkacem,2021/2,4,0.31055900621118
+ouest-france.fr,nelson mandela,2021/3,4,-1.47783251231527
+ouest-france.fr,hachd al-chaabi,2021/1,4,-6.05326876513317
+ouest-france.fr,rachid younsi,2021/2,4,-6.53061224489796
+sudouest.fr,mohamed guendouz,2021/2,4,-8.84955752212389
+ouest-france.fr,mohammed al-zeidawi,2021/1,4,-6.05326876513317
+sudouest.fr,nicolas dupont-aignan,2021/3,4,-6.30372492836676
+ouest-france.fr,lactalis xavier bonnardel,2021/2,4,2.72727272727273
+ouest-france.fr,r patrick charlot,2021/1,4,0.558659217877095
+ouest-france.fr,david kaminski,2021/2,4,-8.45070422535211
+sudouest.fr,denis mondon,2021/2,4,-8.84955752212389
+ouest-france.fr,hussein al-sheikh,2021/2,4,-1.54639175257732
+ouest-france.fr,bernard kouchner,2021/1,4,-7.80095610604085
+sudouest.fr,natacha bouchart,2021/3,4,-2.51798561151079
+ouest-france.fr,lluis puig,2021/3,4,-1.15207373271889
+ouest-france.fr,francis scott,2021/2,4,-3.6697247706422
+ouest-france.fr,lgbt rafal,2021/3,4,-3.18627450980392
+ouest-france.fr,guillou adolphe,2021/1,4,-3.20466132556446
+ouest-france.fr,fatou bensouda,2021/2,4,-1.54639175257732
+sudouest.fr,baptist dax sallefranque,2021/3,4,-4.278933092224236
+ouest-france.fr,florence lambert,2021/2,4,0.0
+ouest-france.fr,camille kouchner,2021/1,4,-7.80095610604085
+ouest-france.fr,alfred chanzy,2021/1,4,-3.20466132556446
+ouest-france.fr,lacroix paritosh gupta,2021/1,4,-3.886925795053
+ouest-france.fr,abraham lincoln,2021/2,4,-3.6697247706422
+ouest-france.fr,ruyant thomas,2021/1,4,-1.12359550561798
+sudouest.fr,augusto santos silva,2021/1,4,-2.27272727272727
+ouest-france.fr,christian jacob,2021/1,4,-0.240384615384615
+ouest-france.fr,johanna rolland,2021/2,4,-4.299834687973549
+ouest-france.fr,michel landes,2021/3,4,-0.320855614973262
+ouest-france.fr,hussam al-khamse,2021/1,4,-6.05326876513317
+sudouest.fr,emma lavigne,2021/2,4,1.03092783505155
+ouest-france.fr,thwet thwet,2021/3,4,-4.92424242424242
+ouest-france.fr,august gougeard,2021/1,4,-3.20466132556446
+ouest-france.fr,emmanuel kessler,2021/2,4,-0.420168067226891
+ouest-france.fr,assad al-eidani,2021/1,4,-6.05326876513317
+sudouest.fr,khin thida nyein,2021/2,4,-7.98319327731093
+ouest-france.fr,nicolas brien,2021/3,4,-2.2
+sudouest.fr,debbie wasserman schultz,2021/1,4,-6.07476635514019
+sudouest.fr,dadolph hitler,2021/2,4,-3.24675324675325
+ouest-france.fr,hillary clinton,2021/1,4,-1.82291666666667
+ouest-france.fr,ngo noyb,2021/3,4,-2.2
+sudouest.fr,navalny oleg,2021/3,4,-6.47058823529412
+ouest-france.fr,amalia escriva,2021/3,4,3.43137254901961
+ouest-france.fr,emmanuel daoud,2021/2,4,-4.8780487804878
+ouest-france.fr,philippe gwen,2021/1,4,1.16279069767442
+ouest-france.fr,alexander dumas,2021/1,4,-2.27670753064799
+ouest-france.fr,ahmad al-rashid,2021/1,4,-6.05326876513317
+ouest-france.fr,sergeant charles,2021/1,4,-4.8780487804878
+ouestaf.com,brice bicaba,2021/3,4,-3.16390041493776
+sudouest.fr,kody frederick,2021/2,4,-3.24675324675325
+sudouest.fr,cyril dion,2021/2,4,-0.641025641025641
+ouest-france.fr,jair bolsonaro,2021/1,4,-3.18471337579618
+ouest-france.fr,r nikan mohtadi,2021/2,4,-3.53982300884956
+ouest-france.fr,jake angeli,2021/1,4,-4.686000274235565
+sudouest.fr,biden joe,2021/1,4,-1.71821305841924
+sudouest.fr,guillaume rozier,2021/1,4,-1.08695652173913
+sudouest.fr,mohamed guendouz saint-guilhem,2021/2,4,-8.84955752212389
+ouest-france.fr,zhang bo,2021/3,4,-1.77304964539007
+ouest-france.fr,karim khan,2021/3,4,-4.8780487804878
+ouest-france.fr,a michel souchaud,2021/1,4,0.543478260869565
+sudouest.fr,jamie raskin,2021/2,4,-6.615738774629753
+sudouest.fr,christiane lambert,2021/3,4,-1.7353579175705
+ouest-france.fr,astra zeneca,2021/2,4,0.6660173646060374
+ouestaf.com,moussa aksar,2021/1,4,-2.85714285714286
+sudouest.fr,delphine horvilleur,2021/3,4,-2.51798561151079
+sudouest.fr,laurence magnin adair,2021/3,4,1.70940170940171
+ouest-france.fr,camille kouchner,2021/2,4,-7.781610066707095
+ouest-france.fr,josette audin,2021/2,4,-3.03886925795053
+ouest-france.fr,tahseem al,2021/1,4,-6.05326876513317
+ouest-france.fr,antoine abdoulaye diome,2021/3,4,-4.7008547008547
+ouest-france.fr,laurent combet letterpost,2021/1,4,-3.886925795053
+ouest-france.fr,jacqueline laffont,2021/3,4,-4.2997542997543
+ouestaf.com,gonbagui gueu george,2021/1,4,0.588235294117647
+sudouest.fr,antoine raimbourg,2021/2,4,0.709219858156029
+ouest-france.fr,dmitri peskov,2021/3,4,-15.2439024390244
+ouest-france.fr,bachar al-assad,2021/2,4,-4.8780487804878
+ouest-france.fr,meps catalan,2021/3,4,-1.15207373271889
+ouestaf.com,norbert zongo,2021/1,4,-2.85714285714286
+ouest-france.fr,nicola notaro,2021/2,4,-8.12182741116751
+ouest-france.fr,yuri latortue,2021/2,4,-4.52127659574468
+sudouest.fr,hong kong sitsang,2021/2,4,-1.26262626262626
+sudouest.fr,amedy coulibaly,2021/3,4,-6.58682634730539
+ouest-france.fr,joanna parrish,2021/1,4,-4.96894409937888
+sudouest.fr,annie genevard,2021/3,4,-6.30372492836676
+ouest-france.fr,ned segal,2021/2,4,-0.826446280991735
+sudouest.fr,igor krasnov,2021/3,4,-6.47058823529412
+sudouest.fr,ilhan omar,2021/1,4,-1.71821305841924
+ouest-france.fr,jean-marc dufour,2021/3,4,-3.80952380952381
+sudouest.fr,nagorny karabakh,2021/1,4,-2.27272727272727
+sudouest.fr,alexander grushko,2021/3,4,-6.47058823529412
+sudouest.fr,bernard kouchner,2021/1,4,-4.74777448071217
+ouestaf.com,kouame clement,2021/1,4,0.588235294117647
+ouest-france.fr,cross atlantic,2021/3,4,-2.61780104712042
+sudouest.fr,camille kouchner,2021/1,4,-4.74777448071217
+ouest-france.fr,blick chiesa marco,2021/3,4,0.0
+ouest-france.fr,bordj bou,2021/3,4,-5.06108202443281
+ouestaf.com,amani tiemoko,2021/1,4,0.588235294117647
+ouest-france.fr,cadu letterpost,2021/3,4,-1.269358407079645
+ouest-france.fr,michel souchaud,2021/1,4,0.543478260869565
+sudouest.fr,florence belkacem,2021/2,4,1.03092783505155
+ouest-france.fr,esther naw,2021/3,4,-4.92424242424242
+sudouest.fr,tedros adhanom ghebreyesus,2021/1,4,-1.62337662337662
+ouest-france.fr,palestinian mohammed shtayyeh,2021/2,4,-1.54639175257732
+sudouest.fr,arcachon sophie,2021/1,4,2.35294117647059
+ouest-france.fr,r eric behbahani,2021/1,4,0.558659217877095
+ouest-france.fr,damalia escriva,2021/3,4,3.43137254901961
+ouestaf.com,gouassiro ernest mathieu,2021/1,4,0.588235294117647
+ouest-france.fr,bernard heyberger,2021/3,4,-1.78926441351889
+ouest-france.fr,lorient a lorient,2021/3,4,2.77777777777778
+ouest-france.fr,philippe vincent,2021/2,4,-6.98254364089776
+ouest-france.fr,duchre a lyons,2021/3,4,-5.4014598540146
+sudouest.fr,afp jean-paul ortiz,2021/3,4,-1.71919770773639
+ouest-france.fr,a duchre a lyons,2021/3,4,-5.4014598540146
+ouest-france.fr,michel fourniret,2021/1,4,-4.96894409937888
+ouest-france.fr,aung maung,2021/3,4,-4.92424242424242
+sudouest.fr,yang jiechi,2021/2,4,-1.26262626262626
+ouest-france.fr,gayle oprah winfrey,2021/3,4,1.26760563380282
+sudouest.fr,charles harry,2021/3,4,-2.15827338129496
+sudouest.fr,tom burt,2021/3,4,-6.945718860761768
+ouestaf.com,yao kouakou guemon,2021/1,4,0.588235294117647
+sudouest.fr,john kirby,2021/3,4,-2.91060291060291
+sudouest.fr,nadine david,2021/3,4,2.72904483430799
+ouest-france.fr,grisha bogdanov,2021/1,4,-4.23280423280423
+ouest-france.fr,sacha cahn,2021/2,4,-4.31654676258993
+ouest-france.fr,joseph oliver,2021/3,4,-5.4014598540146
+ouest-france.fr,paritosh gupta,2021/1,4,-3.886925795053
+ouest-france.fr,harriet tubman,2021/2,4,-3.6697247706422
+sudouest.fr,artnova jousset,2021/2,4,1.03092783505155
+ouest-france.fr,afp joseph zimet,2021/1,4,-1.1300182213601329
+ouest-france.fr,joseph jean-louis,2021/2,4,-4.52127659574468
+sudouest.fr,yvonne huynh,2021/1,4,-4.52127659574468
+sudouest.fr,sebastian kurz,2021/3,4,-8.28571428571428
+ouest-france.fr,theodore roosevelt,2021/2,4,-3.6697247706422
+ouest-france.fr,christophe wilson,2021/3,4,-0.503778337531486
+sudouest.fr,adam kinzinger,2021/1,4,-6.07476635514019
+ouest-france.fr,ali khamenei,2021/1,4,-3.72960372960373
+ouest-france.fr,johanna rolland,2021/1,4,0.4691977077363926
+ouest-france.fr,abdelhakim sefrioui,2021/3,4,-9.28689883913765
+ouest-france.fr,dick cheney,2021/1,4,-2.3625434686488
+ouest-france.fr,william green,2021/2,4,0.836820083682008
+sudouest.fr,nicola gratteri,2021/3,4,-5.76923076923077
+ouest-france.fr,andr thomas,2021/3,4,-2.11764705882353
+ouest-france.fr,jacques chirac,2021/3,4,-3.3824158233468924
+ouest-france.fr,thierry herzog,2021/1,4,-5.70652173913043
+ouest-france.fr,florence lambert,2021/1,4,-3.06122448979592
+ouestaf.com,coulibaly yahaya,2021/1,4,0.588235294117647
+sudouest.fr,adam schiff,2021/1,4,-6.07476635514019
+ouest-france.fr,sabine lalande,2021/3,4,0.65359477124183
+ouest-france.fr,sergeant gombault,2021/1,4,-4.8780487804878
+ouest-france.fr,laurent gbagbo,2021/2,4,-3.03886925795053
+ouest-france.fr,boris cyrulnik,2021/3,4,-0.618556701030928
+ouest-france.fr,maati monjib,2021/3,4,-13.0990415335463
+sudouest.fr,masamichi adachi,2021/1,4,-1.03092783505155
+sudouest.fr,roselyne bachelot,2021/2,4,1.03092783505155
+ouest-france.fr,lhuisne sarthe,2021/3,4,-0.320855614973262
+sudouest.fr,philippe vermesch,2021/3,4,-1.71919770773639
+ouest-france.fr,jason miller,2021/1,4,-3.29218106995885
+sudouest.fr,jacques tati,2021/3,4,2.72904483430799
+ouestaf.com,alassane ouattara,2021/1,4,0.588235294117647
+ouest-france.fr,caroline letoile,2021/2,4,-8.52173913043478
+ouestaf.com,imelda daisy doussou mari,2021/1,4,0.588235294117647
+ouest-france.fr,franklin roosevelt,2021/2,4,-3.6697247706422
+ouest-france.fr,clara ponsati,2021/3,4,-1.15207373271889
+ouestaf.com,gbanda odette,2021/1,4,0.588235294117647
+ouest-france.fr,christophe letessier,2021/3,4,-3.97350993377483
+ouest-france.fr,antonio guterres,2021/2,4,-4.52127659574468
+ouest-france.fr,palestinian wafa,2021/2,4,-1.54639175257732
+sudouest.fr,kenneth mckenzie,2021/3,4,-2.91060291060291
+sudouest.fr,fukushima daiichi,2021/3,4,-1.91326530612245
+ouest-france.fr,florent chartier,2021/2,4,-0.12562814070351774
+ouest-france.fr,thinzar maung,2021/3,4,-4.92424242424242
+ouest-france.fr,annecy denizot,2021/3,4,-3.80952380952381
+ouest-france.fr,nicolas fernand,2021/1,4,-0.1505740636175425
+ouest-france.fr,george washington,2021/2,4,-3.6697247706422
+ouest-france.fr,mark rutte,2021/2,4,-7.77027027027027
+ouest-france.fr,afp bilal,2021/3,4,-5.06108202443281
+sudouest.fr,michel catalano,2021/3,4,-6.58682634730539
+sudouest.fr,peter szijjarto,2021/2,4,1.20845921450151
+sudouest.fr,george shultz,2021/2,4,-4.84375
+ouest-france.fr,nicolas deulofeu,2021/2,4,-3.28638497652582
+ouest-france.fr,sylvain scherer,2021/2,4,-3.33333333333333
+ouest-france.fr,dianne feinstein,2021/2,4,-3.6697247706422
+ouest-france.fr,lilian mercier,2021/3,4,-2.61780104712042
+ouest-france.fr,pauline boutin,2021/1,3,2.87081339712919
+ouest-france.fr,lapca isabelle,2021/1,3,-4.29799426934097
+ouest-france.fr,john east,2021/3,3,1.28647631000941
+ouest-france.fr,deena hinshaw,2021/1,3,-3.0821917808219204
+ouest-france.fr,butch bowers,2021/2,3,-4.27698574338086
+ouest-france.fr,luc chetrit,2021/3,3,-4.3778801843318
+ouest-france.fr,garcia prez,2021/3,3,-1.64670658682635
+ouest-france.fr,valerie rabault,2021/2,3,-1.7598406795504868
+ouest-france.fr,edward durand,2021/3,3,-1.58013544018059
+ouest-france.fr,al gore,2021/2,3,-0.718132854578097
+ouest-france.fr,claude gallimard,2021/1,3,-0.518806744487678
+ouest-france.fr,philippe gosselin,2021/2,3,-2.91970802919708
+ouest-france.fr,christian saint-etienne,2021/2,3,-0.480769230769231
+sudouest.fr,kenzo takada,2021/3,3,0.578034682080925
+sudouest.fr,ludovic rioux,2021/1,3,-0.778816199376947
+sudouest.fr,audi jean-christophe lagarde,2021/3,3,-0.7326007326007321
+ouest-france.fr,thierry marx,2021/2,3,2.62054507337526
+ouest-france.fr,qanon jacob anthony,2021/1,3,-5.59440559440559
+ouest-france.fr,nayla clay,2021/2,3,-1.13250283125708
+sudouest.fr,maarten luther king,2021/1,3,-2.08768267223382
+ouest-france.fr,vladimir jankelevitch,2021/1,3,-4.9645390070922
+ouest-france.fr,mathieu gallet,2021/2,3,0.0
+ouest-france.fr,helena bonham,2021/1,3,-0.9269988412514479
+sudouest.fr,meaux laureline peyrefitte,2021/2,3,-4.54545454545455
+ouest-france.fr,alejandro mayorkas,2021/2,3,-1.42348754448399
+sudouest.fr,david lemieux,2021/2,3,-7.22100656455142
+ouest-france.fr,thierry burkhard,2021/1,3,-1.06382978723404
+ouest-france.fr,xavier bertrand,2021/1,3,2.00333889816361
+sudouest.fr,philippe pacque,2021/3,3,-8.70786516853933
+sudouest.fr,souladakis audi jean-christophe lagarde,2021/3,3,-0.7326007326007321
+ouest-france.fr,thierry burlot,2021/2,3,1.24223602484472
+sudouest.fr,philippe martinez,2021/2,3,-1.98019801980198
+ouest-france.fr,denis ferrand,2021/2,3,-0.480769230769231
+sudouest.fr,gwendal leroy,2021/2,3,-7.22100656455142
+sudouest.fr,jimony rousseau,2021/2,3,-4.54545454545455
+ouest-france.fr,ahmad massoud,2021/2,3,1.37741046831956
+sudouest.fr,jeffrey frederick,2021/3,3,-5.97014925373134
+sudouest.fr,nathalie latour,2021/3,3,-2.85714285714286
+ouest-france.fr,john matz,2021/1,3,-4.78011472275335
+sudouest.fr,caudrelier cammas,2021/1,3,0.928074245939675
+sudouest.fr,hans kluge,2021/2,3,-0.7476635514018689
+ouest-france.fr,linfectiologue karine lacombe,2021/1,3,2.00333889816361
+madeinfoot.ouest-france.fr,zlatan ibrahimovic,2021/3,3,4.65116279069767
+ouest-france.fr,eric bouillard,2021/3,3,-10.0
+sudouest.fr,claudia mo,2021/1,3,-4.60893854748603
+ouest-france.fr,arnaud vincent,2021/1,3,1.24223602484472
+sudouest.fr,antoine llorca,2021/2,3,-4.58015267175573
+sudouest.fr,yolanda diaz,2021/3,3,-0.984251968503937
+ouestaf.com,hamed bakayoko,2021/3,3,0.0
+ouest-france.fr,gabriel malek,2021/3,3,0.0992063492063493
+ouest-france.fr,thomas mandroux,2021/3,3,-5.95854922279793
+ouest-france.fr,saint-michel guingamp,2021/3,3,-5.23255813953488
+ouest-france.fr,patrick dupond,2021/3,3,9.1743119266055
+sudouest.fr,brad pitt,2021/3,3,0.578034682080925
+ouest-france.fr,mathieu klein,2021/1,3,-2.1226760357195134
+ouest-france.fr,damien courtin,2021/1,3,2.87081339712919
+ouest-france.fr,audrey azoulay,2021/3,3,-1.02564102564103
+sudouest.fr,jules verne,2021/1,3,0.928074245939675
+sudouest.fr,jose andres funes monge,2021/1,3,-1.1070110701107
+ouest-france.fr,breugnot sarthe,2021/2,3,-1.36986301369863
+ouest-france.fr,meziane abane,2021/3,3,-4.43686006825939
+ouest-france.fr,emmanuel dupuy,2021/3,3,0.0992063492063493
+ouest-france.fr,guingamp saint-michel,2021/3,3,-5.23255813953488
+sudouest.fr,bassem al-kaissi,2021/2,3,-6.10169491525424
+ouest-france.fr,vincent marshal,2021/1,3,-0.390117035110533
+sudouest.fr,faouzi fayek,2021/3,3,-7.35294117647059
+ouest-france.fr,surender kumar,2021/1,3,-3.6717062634989204
+ouest-france.fr,matt groening,2021/1,3,-1.22887864823349
+ouest-france.fr,elie cohen,2021/2,3,-0.480769230769231
+sudouest.fr,dalai lama,2021/3,3,-4.744296535341307
+ouest-france.fr,justice michal wojcik,2021/3,3,-3.0651340996168606
+ouest-france.fr,justice eric,2021/2,3,-6.32911392405063
+sudouest.fr,caroline marty,2021/3,3,-6.958232095337266
+sudouest.fr,karan bhatia,2021/3,3,-2.8037383177570105
+ouest-france.fr,pedro sanchez,2021/3,3,-0.302114803625377
+ouest-france.fr,yvan georget saumur vale,2021/3,3,0.452488687782806
+sudouest.fr,tony loisel,2021/1,3,-3.56083086053412
+ouest-france.fr,blaise royer,2021/3,3,0.0992063492063493
+sudouest.fr,barry phipps,2021/3,3,0.578034682080925
+ouest-france.fr,emmanuel franco-espagnol,2021/3,3,-0.302114803625377
+ouest-france.fr,colmar catherine sorita-minard,2021/1,3,-7.21649484536082
+ouest-france.fr,philippe renaudet,2021/1,3,-1.2778271208778593
+ouest-france.fr,afp corinne lepage,2021/1,3,-3.4246575342465797
+ouest-france.fr,thierry scherrer,2021/1,3,2.9296875
+ouest-france.fr,adam johnson,2021/1,3,-5.59440559440559
+ouest-france.fr,abdelmajid tebboune,2021/3,3,-4.43686006825939
+ouestaf.com,imam oumarou diarra,2021/2,3,-1.159114857745
+ouest-france.fr,dalfortville luc,2021/1,3,1.6166281755196301
+ouest-france.fr,yvette cartereau,2021/1,3,-3.23076923076923
+sudouest.fr,bernard laporte,2021/3,3,-2.12765957446809
+ouest-france.fr,laurent combet,2021/1,3,1.24223602484472
+ouest-france.fr,jon ossoff,2021/1,3,1.8378378378378397
+ouest-france.fr,america latin,2021/2,3,-2.03045685279188
+ouest-france.fr,mark gleizes,2021/2,3,-2.46478873239437
+sudouest.fr,miguel menendez,2021/3,3,-2.93398533007335
+ouest-france.fr,roch wamytan,2021/3,3,1.91458026509573
+ouest-france.fr,kathleen marchal-crenshaw,2021/2,3,4.81481481481481
+ouest-france.fr,cyprien mercier,2021/3,3,-9.966914805624493
+sudouest.fr,abdelmalek droukdal,2021/1,3,-4.79452054794521
+sudouest.fr,hussein sayed,2021/2,3,-1.08303249097473
+ouestaf.com,kau djim,2021/2,3,-1.159114857745
+ouest-france.fr,ahmad shah massoud,2021/2,3,1.37741046831956
+sudouest.fr,xavier fortinon,2021/1,3,-2.05949656750572
+ouest-france.fr,audouin letterpost,2021/1,3,1.5544041450777197
+ouest-france.fr,brice smith,2021/1,3,0.0
+ouest-france.fr,brian sicknick,2021/1,3,-6.54761904761905
+ouest-france.fr,antony blinken,2021/2,3,-0.555555555555556
+ouest-france.fr,colmar europe,2021/1,3,-7.21649484536082
+sudouest.fr,elisabeth moreno,2021/3,3,-2.88659793814433
+sudouest.fr,mehmet murat,2021/2,3,-4.601626101681259
+ouest-france.fr,joyce carol oates,2021/1,3,-0.518806744487678
+ouestaf.com,patrick achi,2021/3,3,0.0
+sudouest.fr,lisa teixeira,2021/1,3,-3.56083086053412
+ouest-france.fr,marseille payan,2021/1,3,-3.75
+ouestaf.com,ibk ouestaf,2021/2,3,-1.159114857745
+ouest-france.fr,luc hall,2021/1,3,-0.796178343949045
+sudouest.fr,simon maughan,2021/1,3,-1.75438596491228
+ouest-france.fr,angela merkel,2021/3,3,3.76811594202899
+ouest-france.fr,tourki al malki,2021/2,3,-7.20930232558139
+sudouest.fr,david boileau morgan,2021/1,3,0.928074245939675
+ouest-france.fr,philippe martinez,2021/1,3,-4.29292929292929
+ouest-france.fr,denis lambert,2021/1,3,0.7165254898622287
+ouest-france.fr,paul haswell,2021/2,3,-1.52284263959391
+sudouest.fr,toulon hubert falco,2021/2,3,-5.89970501474926
+ouest-france.fr,helena bo,2021/1,3,-0.9269988412514479
+ouest-france.fr,bertrand bonello,2021/2,3,-1.82370820668693
+ouest-france.fr,e cyril duval,2021/2,3,2.57731958762887
+sudouest.fr,philippe bush,2021/1,3,0.22661518321727336
+sudouest.fr,jean-louis fournier,2021/1,3,-1.5625
+sudouest.fr,leclerc iraty,2021/2,3,-5.04731861198738
+ouest-france.fr,bruno dary,2021/1,3,-1.06382978723404
+ouest-france.fr,michel fradin,2021/1,3,-0.8250825082508267
+sudouest.fr,doubs joel mathurin,2021/3,3,0.0
+ouestaf.com,ibrahima boubacar,2021/2,3,-1.159114857745
+sudouest.fr,pcr moselle,2021/3,3,-2.12765957446809
+sudouest.fr,ashli babbitt,2021/1,3,-3.58851674641148
+ouest-france.fr,arabia arabia,2021/3,3,-1.54981549815498
+ouest-france.fr,yvan georget letterpost,2021/3,3,0.452488687782806
+ouest-france.fr,hans zahner,2021/2,3,2.62054507337526
+ouest-france.fr,thomas andrews,2021/3,3,-10.1123595505618
+ouest-france.fr,klaus kinzler,2021/3,3,-6.511627906976739
+ouest-france.fr,xavier renaud,2021/2,3,-8.65979381443299
+sudouest.fr,ned segal,2021/2,3,-0.985221674876847
+sudouest.fr,lee takhedmit,2021/3,3,-7.1969696969697
+ouest-france.fr,marie coulon,2021/3,3,0.505050505050505
+ouest-france.fr,xavier moreau,2021/3,3,0.0992063492063493
+ouest-france.fr,didier maarten,2021/3,3,-1.26262626262626
+ouest-france.fr,bruno dey,2021/2,3,-7.04545454545455
+sudouest.fr,marion marshal,2021/3,3,-0.378071833648393
+ouest-france.fr,edward snowden,2021/1,3,1.5837104072398198
+sudouest.fr,david dufresne,2021/2,3,-7.22100656455142
+sudouest.fr,charente sandrine,2021/1,3,0.284900284900284
+ouest-france.fr,john matze,2021/1,3,-4.78011472275335
+ouest-france.fr,mark zuckerberg,2021/3,3,1.75953079178886
+ouest-france.fr,philippe aghion,2021/2,3,-0.480769230769231
+ouest-france.fr,clementine mercier,2021/1,3,-1.5235667973039027
+sudouest.fr,gerald darmanin,2021/3,3,-3.64612928538572
+sudouest.fr,johanna rolland,2021/2,3,0.387596899224806
+sudouest.fr,charles caudrelier,2021/1,3,0.928074245939675
+ouest-france.fr,astrazeneca biontech,2021/1,3,-1.30548302872063
+ouest-france.fr,pascal boniface,2021/2,3,-1.05853051058531
+ouest-france.fr,nicola gratteri,2021/3,3,-3.93700787401575
+ouest-france.fr,philippe astruc,2021/1,3,-4.5045045045045
+ouest-france.fr,abhishek singh,2021/1,3,-3.6717062634989204
+ouest-france.fr,guillaume menguy,2021/2,3,-1.87319884726225
+ouest-france.fr,pontlieue saint-martin,2021/1,3,-4.36893203883495
+madeinfoot.ouest-france.fr,che che,2021/3,3,4.65116279069767
+ouest-france.fr,neera tanden,2021/1,3,1.8378378378378397
+ouest-france.fr,mathieu davy,2021/3,3,-3.34928229665072
+ouest-france.fr,florent chartier,2021/1,3,-3.38118022328549
+ouest-france.fr,rudolph giuliani,2021/2,3,-4.27698574338086
+sudouest.fr,antony blinken,2021/1,3,-4.60893854748603
+ouest-france.fr,justin a trudeau,2021/2,3,0.0
+ouest-france.fr,a franois fox,2021/2,3,0.42826552462526707
+sudouest.fr,jean-baptiste moreau,2021/3,3,-2.85714285714286
+sudouest.fr,mathias dufour,2021/1,3,-0.778816199376947
+ouestaf.com,imam dick,2021/2,3,-1.159114857745
+ouest-france.fr,wax tailor,2021/1,3,3.33333333333333
+ouest-france.fr,alan roura,2021/1,3,0.2963701265665693
+ouest-france.fr,eric bothorel,2021/2,3,0.595238095238095
+sudouest.fr,cftc cyril chabanier,2021/1,3,0.0
+ouest-france.fr,oxford covid,2021/1,3,-1.86666666666667
+ouest-france.fr,romney lisa murkowski,2021/1,3,1.8378378378378397
+sudouest.fr,arnaud durand,2021/2,3,-6.61157024793388
+ouest-france.fr,jens spahn,2021/3,3,3.76811594202899
+ouest-france.fr,chris wray,2021/1,3,-10.752688172043
+sudouest.fr,franck cammas,2021/1,3,0.928074245939675
+ouest-france.fr,manchegan breton,2021/1,3,2.38095238095238
+ouest-france.fr,cyril duval mathilde leclerc,2021/2,3,2.57731958762887
+sudouest.fr,souladakis boris vallaud,2021/1,3,-2.05949656750572
+sudouest.fr,hamas islamist,2021/2,3,-1.02564102564103
+ouest-france.fr,sylvie guillaume,2021/2,3,-1.05853051058531
+ouest-france.fr,dimitri rogoff,2021/1,3,-0.796178343949045
+ouest-france.fr,christian estrosi,2021/2,3,-0.684931506849315
+sudouest.fr,ali sistani,2021/3,3,-0.647249190938511
+ouest-france.fr,july a crteil,2021/2,3,-6.38297872340426
+ouest-france.fr,sylvain scherer,2021/3,3,-1.26262626262626
+ouest-france.fr,lindsay graham,2021/1,3,1.53846153846154
+ouest-france.fr,mark milley,2021/1,3,-3.88349514563107
+ouest-france.fr,jonathan thomas,2021/1,3,-0.268096514745308
+ouest-france.fr,aouatef braber,2021/2,3,-8.08383233532934
+ouest-france.fr,bernard bouvet,2021/2,3,4.81481481481481
+ouest-france.fr,christiane lambert,2021/1,3,4.12371134020619
+sudouest.fr,nelly maarten,2021/2,3,-3.28227571115974
+ouest-france.fr,annamie paul,2021/2,3,0.0
+ouest-france.fr,bernard hourcade,2021/3,3,0.0992063492063493
+ouest-france.fr,commons annecy,2021/2,3,-5.21327014218009
+ouest-france.fr,denise bellanger,2021/1,3,-3.23076923076923
+ouest-france.fr,jair bolsonaro donald,2021/3,3,-3.19488817891374
+ouest-france.fr,annie minvielle,2021/1,3,-0.9269988412514479
+ouest-france.fr,julian bugier,2021/1,3,0.10007347166274332
+sudouest.fr,jean-claude juncker,2021/3,3,-2.7985074626865702
+ouestaf.com,imam mahmoud dicko,2021/2,3,-1.159114857745
+ouest-france.fr,polly king,2021/2,3,-1.303907763567844
+ouest-france.fr,patrick laffont,2021/2,3,4.81481481481481
+ouest-france.fr,lrem pascal canfin,2021/2,3,-1.05853051058531
+sudouest.fr,david schultz,2021/3,3,-5.97014925373134
+sudouest.fr,tiffany yuen,2021/1,3,-4.60893854748603
+ouest-france.fr,derrick evans,2021/1,3,-5.59440559440559
+sudouest.fr,familia camille kouchner,2021/2,3,-6.75105485232067
+ouest-france.fr,afp karsenti,2021/2,3,0.0
+sudouest.fr,henri vanneaud,2021/3,3,3.97111913357401
+sudouest.fr,edward snowden,2021/1,3,1.44927536231884
+ouest-france.fr,david cronenberg,2021/2,3,-1.82370820668693
+ouest-france.fr,claude cadot,2021/3,3,-1.6042780748663101
+sudouest.fr,ngo netblocks,2021/2,3,-5.3314121037464
+sudouest.fr,francis joyon,2021/1,3,0.928074245939675
+sudouest.fr,santa barbara,2021/3,3,-1.62454873646209
+ouest-france.fr,philippe grosvalet,2021/3,3,-1.26262626262626
+ouest-france.fr,mady dicko,2021/1,3,-3.82081686429513
+sudouest.fr,claude belot,2021/3,3,0.0
+ouest-france.fr,mark angel,2021/3,3,-0.317965023847377
+ouest-france.fr,stephane troussel,2021/3,3,-1.34228187919463
+ouestaf.com,birahima ouattara,2021/3,3,0.0
+ouest-france.fr,joe manchin susan collins,2021/1,3,1.8378378378378397
+sudouest.fr,steve tuller,2021/3,3,-5.97014925373134
+ouest-france.fr,eric lombard,2021/2,3,-0.8928571428571429
+ouest-france.fr,franck dubray,2021/2,3,-2.999057334502638
+ouest-france.fr,gaudet letterpost,2021/3,3,-1.6042780748663101
+ouest-france.fr,souladakis thomas,2021/1,3,-1.43540669856459
+sudouest.fr,winston churchill,2021/3,3,0.578034682080925
+ouest-france.fr,a july a crteil,2021/2,3,-6.38297872340426
+ouest-france.fr,luc mlenchon,2021/2,3,-3.1782803958625467
+sudouest.fr,pascal lelarge,2021/1,3,-2.63157894736842
+ouest-france.fr,loeffler kelly,2021/1,3,1.8378378378378397
+ouest-france.fr,cancale a saint-malo,2021/2,3,2.08333333333333
+ouest-france.fr,julian gracq,2021/1,3,-1.01522842639594
+sudouest.fr,pauline trequesser,2021/1,3,-0.778816199376947
+ouest-france.fr,hamdoun baouro,2021/1,3,-3.82081686429513
+ouest-france.fr,pope ndiaye,2021/1,3,-0.518806744487678
+sudouest.fr,daniel laurent,2021/3,3,0.0
+sudouest.fr,johns hopkins,2021/1,3,-2.678078024159357
+ouest-france.fr,sea annick girardin,2021/1,3,-0.796178343949045
+ouest-france.fr,philippe peythieu,2021/1,3,-1.22887864823349
+sudouest.fr,barbara pompili,2021/3,3,-2.85714285714286
+ouest-france.fr,castell henllys,2021/1,3,-2.82685512367491
+sudouest.fr,mady dicko,2021/1,3,-3.2128514056224895
+ouest-france.fr,caroline granier,2021/2,3,-0.480769230769231
+ouest-france.fr,afp clara,2021/3,3,-6.1744966442953
+sudouest.fr,loic vantal,2021/2,3,-8.90756302521008
+sudouest.fr,delphine batho,2021/3,3,-3.28638497652582
+sudouest.fr,eric godard,2021/3,3,-4.9438202247191
+ouest-france.fr,roselyne bachelot,2021/1,3,1.50891632373114
+sudouest.fr,joshua wong,2021/1,3,-4.60893854748603
+ouest-france.fr,roberto blanchedent,2021/1,3,-6.08695652173913
+ouest-france.fr,buckingham aspen,2021/3,3,-1.54981549815498
+ouest-france.fr,arandir singh,2021/1,3,-3.6717062634989204
+sudouest.fr,luc chetrit,2021/3,3,-2.8037383177570105
+ouest-france.fr,julie gayet,2021/3,3,-2.29007633587786
+ouest-france.fr,christian taudon,2021/2,3,0.7968127490039839
+ouest-france.fr,steve dickson,2021/3,2,-3.36391437308869
+sudouest.fr,luc mlenchon,2021/1,2,-1.35593220338983
+ouest-france.fr,melanie a cholet,2021/1,2,-0.784313725490196
+ouest-france.fr,yann moricet,2021/1,2,1.18577075098814
+sudouest.fr,steffen seibert,2021/1,2,-3.15985130111524
+sudouest.fr,christophe hourcade,2021/3,2,-2.27272727272727
+sudouest.fr,jean-marc champeaux,2021/2,2,-7.60233918128655
+sudouest.fr,matthew snape,2021/2,2,-0.142857142857143
+ouest-france.fr,martin bouygues,2021/3,2,-3.50109409190372
+ouest-france.fr,jeffrey epstein,2021/3,2,-2.30607966457023
+ouest-france.fr,nicolas cariou,2021/1,2,-3.13152400835073
+sudouest.fr,mbala mbala,2021/2,2,-9.70873786407767
+sudouest.fr,yuriko koike,2021/1,2,-3.54430379746835
+ouest-france.fr,audrey hepburn,2021/2,2,0.37243947858473
+ouest-france.fr,ngo oxfam,2021/3,2,-0.643776824034335
+ouest-france.fr,atlantic a saint-nazaire,2021/2,2,-1.95439739413681
+sudouest.fr,kiran millwood hargrave,2021/1,2,-0.772797527047913
+sudouest.fr,matthias lehmann,2021/3,2,2.30414746543779
+sudouest.fr,bruno dey,2021/2,2,-8.33333333333333
+sudouest.fr,annick lucas,2021/3,2,-4.0650406504065
+ouest-france.fr,ariel weil,2021/2,2,-2.11267605633803
+ouest-france.fr,erbil pope,2021/3,2,-1.31926121372032
+ouest-france.fr,abraham lincoln,2021/1,2,-2.81425891181989
+ouest-france.fr,vale doise,2021/3,2,-0.909090909090909
+ouest-france.fr,breton bernard,2021/1,2,-2.47524752475248
+sudouest.fr,julian royan,2021/3,2,-0.319488817891374
+sudouest.fr,square states,2021/1,2,-2.47395833333333
+ouest-france.fr,sarah ferguson,2021/2,2,0.427350427350427
+ouest-france.fr,roberto biton,2021/1,2,0.813008130081301
+sudouest.fr,alexander maulin,2021/1,2,-0.364963503649635
+ouest-france.fr,barham saleh,2021/3,2,-1.27118644067797
+ouest-france.fr,arnaud chereau,2021/2,2,0.865800865800866
+sudouest.fr,martine ladoucette,2021/3,2,-1.8
+ouest-france.fr,pedro duque,2021/2,2,-4.1871921182266
+ouest-france.fr,didier conrad,2021/1,2,1.62271805273834
+sudouest.fr,chu saclay,2021/3,2,-2.21518987341772
+sudouest.fr,margaret rogerson,2021/1,2,-0.772797527047913
+sudouest.fr,roman maxim,2021/2,2,-1.19047619047619
+ouest-france.fr,sacha baron cohen,2021/1,2,0.378787878787878
+ouest-france.fr,jacques lebailly,2021/3,2,2.43161094224924
+sudouest.fr,isabelle boinot,2021/3,2,2.30414746543779
+sudouest.fr,ines el,2021/3,2,-2.69151138716356
+sudouest.fr,mario grech,2021/2,2,-0.440528634361233
+ouest-france.fr,ibrahim boubacar,2021/1,2,-5.15222482435597
+ouest-france.fr,jules ferry,2021/2,2,-1.93050193050193
+sudouest.fr,christophe castaner,2021/3,2,-2.005022659700375
+sudouest.fr,esquirol saint-hilaire,2021/1,2,0.0
+ouest-france.fr,trelaze franck,2021/1,2,3.24675324675325
+ouest-france.fr,marion marshal,2021/3,2,0.740740740740741
+ouest-france.fr,jean-marc bloch,2021/1,2,-6.14754098360656
+ouest-france.fr,souladakis guillaume,2021/1,2,-2.0746887966805
+sudouest.fr,sheikh tidiane,2021/3,2,-7.06638115631692
+ouest-france.fr,lann lola,2021/3,2,-6.99588477366255
+sudouest.fr,al qaeda,2021/1,2,-3.70967741935484
+ouest-france.fr,sundar pichai,2021/1,2,-2.79542566709022
+ouest-france.fr,frank philip stella tennant,2021/1,2,0.684931506849315
+ouest-france.fr,christine angot,2021/2,2,-6.56565656565657
+ouest-france.fr,michele boisvert,2021/3,2,-1.22448979591837
+ouest-france.fr,walker violet,2021/3,2,-4.14364640883978
+ouest-france.fr,a terry gilliam,2021/3,2,0.70859167404783
+ouest-france.fr,joe manchin,2021/2,2,1.07816711590296
+ouest-france.fr,kristi noem,2021/1,2,-2.99785867237687
+ouest-france.fr,eric dupond-moretti,2021/1,2,-1.76991150442478
+ouest-france.fr,belabbas bounaga,2021/3,2,-9.84251968503937
+ouest-france.fr,bertrand leclerc,2021/1,2,-5.88235294117647
+ouest-france.fr,trelaze mauboussin,2021/1,2,3.24675324675325
+ouest-france.fr,christophe marx,2021/3,2,0.694444444444444
+ouest-france.fr,sekou keita,2021/1,2,-4.43349753694581
+sudouest.fr,alexei levinson,2021/3,2,-2.0
+sudouest.fr,gironde bcc,2021/1,2,2.8436018957346
+ouest-france.fr,souladakis jean-carles,2021/1,2,-1.18343195266272
+sudouest.fr,maarten hirsch,2021/1,2,0.151515151515151
+ouest-france.fr,angel mancini,2021/3,2,-1.36986301369863
+ouest-france.fr,guislaine david,2021/3,2,-1.74825174825175
+ouest-france.fr,alpes-maritimes ciotti,2021/1,2,-0.866551126516464
+ouest-france.fr,joel batteux,2021/1,2,0.578034682080925
+sudouest.fr,sarah el,2021/3,2,0.387596899224807
+ouest-france.fr,nicolas pallois,2021/1,2,0.862068965517242
+ouest-france.fr,franois boscher,2021/2,2,-2.5
+ouest-france.fr,stephanie loiret,2021/2,2,1.53256704980843
+sudouest.fr,gavin williamson,2021/3,2,-2.50941028858218
+ouest-france.fr,hancock matt,2021/1,2,-1.64113785557987
+ouest-france.fr,camille kouchner,2021/3,2,-4.01146131805158
+ouest-france.fr,knight marie-lise,2021/1,2,3.24675324675325
+ouest-france.fr,annick ridge,2021/1,2,-7.90960451977401
+sudouest.fr,castle angelus,2021/3,2,-5.91836734693878
+ouest-france.fr,chuck keeney,2021/2,2,1.07816711590296
+ouest-france.fr,frank philip stella,2021/1,2,0.684931506849315
+ouest-france.fr,nicole bacharan,2021/1,2,-2.45098039215686
+ouest-france.fr,isabelle aubry,2021/1,2,-7.90960451977401
+sudouest.fr,viviana simon,2021/3,2,-2.15686274509804
+ouest-france.fr,alice sternberg letterpost,2021/2,2,-4.39024390243902
+sudouest.fr,marisa rocco,2021/3,2,-4.58839406207827
+ouest-france.fr,sun dawu,2021/1,2,-7.01298701298701
+ouest-france.fr,maarten blachier,2021/1,2,-3.60610263522885
+ouest-france.fr,florent belon,2021/2,2,4.13793103448276
+sudouest.fr,sleiman haroun,2021/1,2,-3.54430379746835
+sudouest.fr,camille chaize,2021/1,2,-2.47395833333333
+sudouest.fr,xavier niel,2021/1,2,-0.859598853868195
+ouest-france.fr,ludovic husse,2021/1,2,-0.253164556962025
+ouest-france.fr,arnaud fontanet,2021/2,2,-0.65359477124183
+ouest-france.fr,donald may,2021/1,2,-1.91082802547771
+ouest-france.fr,nathalie saunier,2021/3,2,3.16455696202532
+sudouest.fr,laurence rouede,2021/3,2,2.14797136038186
+sudouest.fr,knights brisson,2021/3,2,2.71739130434783
+sudouest.fr,steve dickson,2021/3,2,-3.09859154929577
+ouest-france.fr,david samzun,2021/3,2,-0.5
+ouest-france.fr,diego mendez,2021/2,2,-7.61245674740484
+ouest-france.fr,thierry baron,2021/3,2,0.99009900990099
+ouest-france.fr,dupetit thours,2021/3,2,-1.84615384615385
+ouest-france.fr,laurent gbagbo,2021/3,2,0.282485875706214
+ouest-france.fr,thierry benoit,2021/3,2,-0.896860986547085
+ouest-france.fr,emer cooke,2021/3,2,2.10084033613445
+ouest-france.fr,laurent peron,2021/1,2,0.0
+sudouest.fr,christophe negrier,2021/3,2,2.14797136038186
+sudouest.fr,jill biden,2021/3,2,-0.99502487562189
+ouest-france.fr,afp carine,2021/2,2,-8.05084745762712
+ouest-france.fr,jean-baptiste lemoine,2021/3,2,0.0
+sudouest.fr,yan lespoux,2021/3,2,1.70212765957447
+sudouest.fr,tchoma bangou,2021/1,2,-6.13026819923372
+ouest-france.fr,laderas norte,2021/2,2,-7.61245674740484
+sudouest.fr,paul magnette,2021/2,2,-4.73933649289099
+ouest-france.fr,harry potter,2021/1,2,2.04918032786885
+ouest-france.fr,bauge thomas alban,2021/1,2,3.24675324675325
+ouest-france.fr,beaver bruce,2021/2,2,-6.16113744075829
+ouest-france.fr,joao doria,2021/3,2,-4.95049504950495
+ouest-france.fr,camille hamel,2021/3,2,5.82010582010582
+sudouest.fr,reims chu,2021/3,2,-3.03030303030303
+ouest-france.fr,john commons,2021/1,2,0.738007380073801
+ouest-france.fr,ali baba,2021/2,2,0.889453621346887
+sudouest.fr,marensin maremne adour,2021/3,2,0.396825396825397
+sudouest.fr,thierry boissinot,2021/3,2,3.01507537688442
+sudouest.fr,jean-baptiste lemoyne,2021/3,2,-2.0497803806735
+sudouest.fr,abdelmajid tebboune,2021/3,2,-1.02040816326531
+sudouest.fr,gabriel matzneff,2021/2,2,-2.38742018595273
+sudouest.fr,boris vallaud,2021/2,2,-7.95947901591896
+ouest-france.fr,aude thomas,2021/2,2,0.25062656641604
+ouest-france.fr,franois legault,2021/3,2,-1.22448979591837
+ouest-france.fr,roman bouliou,2021/3,2,-10.5691056910569
+ouest-france.fr,manning peyton,2021/2,2,-2.44360902255639
+sudouest.fr,michael kretschmer,2021/1,2,-3.15985130111524
+ouest-france.fr,christophe bernard letterpost,2021/3,2,-1.471109535625665
+ouest-france.fr,edf hercules,2021/3,2,0.384615384615385
+ouest-france.fr,jean-marc thouelin,2021/3,2,2.43161094224924
+ouest-france.fr,john kerry,2021/3,2,0.919117647058823
+ouest-france.fr,franck marlin,2021/2,2,-2.07792207792208
+sudouest.fr,camille kouchner,2021/3,2,-4.34782608695652
+sudouest.fr,macky sall,2021/3,2,-7.06638115631692
+ouest-france.fr,dolce vita,2021/2,2,-3.91134289439374
+sudouest.fr,thierry santa,2021/2,2,-4.91803278688525
+ouest-france.fr,ehpad chamberlain,2021/1,2,-3.13152400835073
+sudouest.fr,bcc gironde,2021/1,2,2.8436018957346
+sudouest.fr,adolphe lacroix,2021/3,2,1.2448132780083
+ouest-france.fr,anthony fauci,2021/1,2,0.756756756756756
+sudouest.fr,amal mollat,2021/3,2,1.70212765957447
+ouest-france.fr,sonia pinel,2021/3,2,1.25786163522013
+sudouest.fr,allgemeine sonntagszeitung,2021/2,2,-3.93258426966292
+sudouest.fr,roman rolland,2021/1,2,-0.772797527047913
+ouest-france.fr,anjou matthew,2021/2,2,-4.09356725146199
+ouest-france.fr,sebastian kurz,2021/2,2,-3.90738060781476
+ouest-france.fr,laurent delahousse,2021/1,2,1.27118644067797
+ouest-france.fr,andy rubin,2021/1,2,-2.79542566709022
+ouest-france.fr,cantenay-epinard alexander,2021/1,2,3.24675324675325
+ouest-france.fr,carole knight,2021/3,2,0.348432055749129
+ouest-france.fr,piazza rabelais,2021/2,2,-2.64550264550265
+ouest-france.fr,thomas lorient,2021/2,2,-0.735294117647058
+ouest-france.fr,howard irwin,2021/2,2,2.97872340425532
+ouest-france.fr,jean-marc ayrault,2021/1,2,2.31481481481481
+sudouest.fr,emmanuelle wargon,2021/1,2,2.56959314775161
+sudouest.fr,cardinal grech,2021/2,2,-0.440528634361233
+sudouest.fr,nicola sturgeon,2021/1,2,-0.478468899521531
+ouest-france.fr,odile guihal,2021/2,2,-0.983606557377049
+ouest-france.fr,alain tasma,2021/2,2,-2.0501138952164
+ouest-france.fr,simon stevens,2021/3,2,0.0
+ouest-france.fr,johnny hallyday,2021/3,2,-6.99588477366255
+ouest-france.fr,medef sarthe,2021/1,2,1.96850393700787
+ouest-france.fr,mari ducamin,2021/1,2,2.8169014084507
+ouest-france.fr,yvonne huynh,2021/1,2,-6.36042402826855
+sudouest.fr,laurent nivard,2021/3,2,-0.406504065040651
+ouest-france.fr,yves boiteau farah,2021/2,2,0.497512437810946
+ouest-france.fr,cross europe,2021/2,2,-1.55440414507772
+sudouest.fr,abdelmajid chikhi,2021/3,2,-1.02040816326531
+ouest-france.fr,david samzun,2021/1,2,3.24324324324324
+ouest-france.fr,ann bigham,2021/2,2,-1.48760330578512
+sudouest.fr,ford gran torino,2021/2,2,-2.507861635220125
+ouest-france.fr,dridi sonia,2021/1,2,1.67197452229299
+sudouest.fr,paul grisham,2021/2,2,-2.21238938053097
+ouest-france.fr,hans kluge,2021/2,2,-1.22324159021407
+ouest-france.fr,thomas markle,2021/3,2,-1.31004366812227
+ouest-france.fr,rodolphe thomas,2021/3,2,0.434782608695652
+sudouest.fr,america latin,2021/2,2,-1.91082802547771
+ouest-france.fr,natsuko okuyama,2021/3,2,-4.86725663716814
+ouest-france.fr,auvergne rhne,2021/1,2,-1.55642023346304
+ouest-france.fr,gwendal leroy,2021/2,2,-5.15463917525773
+ouest-france.fr,willy lubin,2021/2,2,-8.46560846560847
+ouest-france.fr,lanzamos el,2021/2,2,-4.1871921182266
+sudouest.fr,delphine bernard,2021/1,2,1.29589632829374
+ouestaf.com,cross africa,2021/2,2,0.0809912962593845
+ouest-france.fr,joseph castelli,2021/3,2,-8.04597701149425
+ouest-france.fr,olympiakos le piree,2021/1,2,0.72463768115942
+ouest-france.fr,jean-francois baron,2021/2,2,0.865800865800866
+ouest-france.fr,annick girardin,2021/2,2,0.585651537335286
+sudouest.fr,justine hortense,2021/3,2,-2.24358974358974
+sudouest.fr,indian harris,2021/2,2,-2.15384615384615
+sudouest.fr,duke henri,2021/1,2,0.0
+ouest-france.fr,tigne manon,2021/1,2,3.24675324675325
+ouest-france.fr,renaud van ruymbeke,2021/3,2,-3.78378378378378
+sudouest.fr,dany leprince,2021/3,2,-5.87449933244326
+sudouest.fr,catherine hiegel,2021/2,2,-5.0
+ouest-france.fr,julian thomas,2021/2,2,0.37243947858473
+sudouest.fr,philippe guignard,2021/3,2,-2.0497803806735
+ouest-france.fr,chuck hagel,2021/1,2,-2.81425891181989
+ouest-france.fr,nadia tugwell,2021/2,2,-1.48760330578512
+ouest-france.fr,mari malcolm,2021/2,2,-0.961538461538462
+ouest-france.fr,valerie pcresse,2021/1,2,-1.417004048582995
+ouest-france.fr,david rachline,2021/3,2,-7.98479087452471
+sudouest.fr,franois holland,2021/2,2,1.71990171990172
+sudouest.fr,rochelle fountaine,2021/1,2,4.91223073190286
+sudouest.fr,lisa tyler,2021/3,2,-2.50941028858218
+sudouest.fr,christophe castaner,2021/1,2,-5.50595238095238
+ouest-france.fr,patrick leclerc,2021/1,2,0.0
+sudouest.fr,sharad arvind bobde,2021/3,2,-8.3756345177665
+ouest-france.fr,mathieu magnaudeix,2021/3,2,-3.50109409190372
+ouest-france.fr,elvys dorchini,2021/3,2,-9.06344410876133
+ouest-france.fr,martin luther,2021/3,2,0.42016806722689
+ouest-france.fr,donald rumsfeld,2021/1,2,-2.81425891181989
+sudouest.fr,damien seguin,2021/1,2,0.527240773286467
+ouest-france.fr,marc bloch,2021/1,2,-2.96296296296296
+ouest-france.fr,pascal obispo,2021/1,2,0.756756756756756
+ouest-france.fr,divaskell breizh,2021/3,2,-0.4261083743842345
+ouest-france.fr,christine lagarde,2021/2,2,-2.44360902255639
+sudouest.fr,yannick haenel,2021/2,2,-5.64971751412429
+ouest-france.fr,francis goff,2021/3,2,-0.5
+ouest-france.fr,cftc cyril chabanier,2021/1,2,0.282485875706215
+sudouest.fr,royan atlantic,2021/3,2,-0.319488817891374
+ouest-france.fr,ruth shady,2021/1,2,-8.41121495327103
+ouest-france.fr,august a mathieu,2021/3,2,-2.18340611353712
+sudouest.fr,thomas piketty,2021/2,2,-4.73933649289099
+ouest-france.fr,trelaze dauber,2021/1,2,3.24675324675325
+sudouest.fr,sun dawu,2021/1,2,-6.88405797101449
+sudouest.fr,mark ghaly,2021/3,2,0.826446280991736
+ouest-france.fr,yvon collin,2021/1,2,-5.0179211469534
+ouest-france.fr,shemar moore,2021/3,2,-1.36986301369863
+sudouest.fr,luc addor,2021/3,2,-2.69151138716356
+ouest-france.fr,justin trudeau,2021/2,2,-2.44360902255639
+sudouest.fr,vincent butler,2021/2,2,2.734375
+ouest-france.fr,edouard balladur,2021/3,2,-8.69565217391304
+ouest-france.fr,thomas ruyant,2021/2,2,-0.735294117647058
+ouest-france.fr,a duke edinburgh,2021/3,2,1.01351351351351
+ouest-france.fr,albert uderzo,2021/1,2,1.62271805273834
+ouest-france.fr,lyons florence delaunay,2021/3,2,-5.41871921182266
+sudouest.fr,usman sonko,2021/3,2,-7.06638115631692
+ouest-france.fr,perwin ibrahim afp,2021/3,2,-4.33839479392625
+sudouest.fr,fatou bensouda,2021/2,2,-5.72687224669604
+ouest-france.fr,marietta karamanli,2021/2,2,-1.84049079754601
+sudouest.fr,mary jane,2021/3,2,1.2448132780083
+ouest-france.fr,thierry burlot,2021/3,2,-0.896860986547085
+sudouest.fr,shani wilson,2021/3,2,-6.15384615384615
+ouest-france.fr,javad zarif,2021/1,2,-2.53456221198157
+ouest-france.fr,emmanuelle lejeune,2021/1,2,0.78125
+ouest-france.fr,pagina diego,2021/2,2,-7.61245674740484
+ouest-france.fr,franziska giffey,2021/1,2,0.0
+ouest-france.fr,atlantic a fincantieri,2021/2,2,2.35849056603774
+ouest-france.fr,serge klarsfeld,2021/1,2,-5.40540540540541
+sudouest.fr,lucy peng,2021/1,2,-6.88405797101449
+sudouest.fr,savanta comres,2021/1,2,-0.478468899521531
+ouest-france.fr,sophie lapix,2021/1,2,1.27118644067797
+ouest-france.fr,sophie lapix,2021/3,2,0.0
+ouest-france.fr,savanta comres,2021/1,2,-0.239234449760765
+ouest-france.fr,doug ford,2021/1,2,-1.74216027874565
+ouest-france.fr,yvon collinouest-france,2021/1,2,-5.0179211469534
+sudouest.fr,kay scheller,2021/3,2,-3.86740331491713
+ouest-france.fr,renault kangoo,2021/2,2,-3.93258426966292
+sudouest.fr,ivan jablonka,2021/3,2,1.70212765957447
+ouest-france.fr,florent menegaux,2021/1,2,1.67197452229299
+sudouest.fr,jorge bergoglio,2021/1,2,-1.68350168350168
+ouest-france.fr,franois ruffin,2021/2,2,-3.73134328358209
+sudouest.fr,hill jonathan,2021/3,2,1.86721991701245
+sudouest.fr,john demjanjuk,2021/2,2,-8.33333333333333
+ouest-france.fr,frederic lambert,2021/2,2,0.72463768115942
+ouest-france.fr,emmanuel weber,2021/1,2,0.0
+ouest-france.fr,biden joe,2021/3,2,-6.54205607476635
+ouest-france.fr,sloan stanley,2021/3,2,3.17460317460317
+ouest-france.fr,d adolf hitler,2021/1,2,-6.32603406326034
+ouest-france.fr,kara silverstein,2021/1,2,-2.79542566709022
+ouest-france.fr,september a saint-brieuc,2021/1,2,-1.86170212765957
+ouest-france.fr,manon aubry,2021/1,2,-0.866551126516464
+sudouest.fr,tedros adhanom,2021/2,2,-2.38095238095238
+sudouest.fr,mark bertrand,2021/3,2,-0.406504065040651
+ouest-france.fr,pascal lebas,2021/3,2,-2.22222222222222
+ouest-france.fr,bastia arnaud,2021/3,2,-8.04597701149425
+ouest-france.fr,alexis babin,2021/1,2,0.813008130081301
+ouest-france.fr,lea salame,2021/3,2,-3.1496062992126
+sudouest.fr,jean-baptiste lemoyne,2021/1,2,-1.91570881226054
+ouest-france.fr,pedro simas,2021/2,2,-3.90738060781476
+ouest-france.fr,john a alencon,2021/3,2,1.42857142857143
+ouest-france.fr,yves boiteau letterpost,2021/1,2,-1.93236714975845
+ouest-france.fr,rakuten darty,2021/2,2,0.889453621346887
+sudouest.fr,fabian buccio,2021/1,2,2.8436018957346
+ouest-france.fr,fabrice henanff,2021/2,2,-3.76569037656904
+ouest-france.fr,niamkey koffi,2021/3,2,0.282485875706214
+sudouest.fr,kate obrien,2021/1,2,-1.21703853955375
+sudouest.fr,chu toulouse,2021/1,2,-1.06951871657754
+ouest-france.fr,gaulle a roissy,2021/3,2,-3.48258706467662
+sudouest.fr,a barnum pcr,2021/1,2,-2.56410256410256
+ouest-france.fr,yves boiteau letterpost,2021/2,2,0.497512437810946
+sudouest.fr,xavier bettel,2021/1,2,0.0
+ouest-france.fr,joseph cuvelier,2021/1,2,-0.662251655629138
+sudouest.fr,a duke edinburgh,2021/3,2,3.48837209302326
+ouest-france.fr,belfort vosges,2021/1,2,-3.60610263522885
+sudouest.fr,patrick seguin,2021/1,2,2.8436018957346
+ouest-france.fr,alexis chauvet,2021/1,2,-0.662251655629138
+sudouest.fr,iyad ag ghaly,2021/1,2,-1.52027027027027
+ouest-france.fr,andras arato,2021/2,2,-3.33333333333333
+sudouest.fr,catalan meps,2021/3,2,-1.50214592274678
+sudouest.fr,luc moudenc,2021/3,2,-2.7972027972028
+ouest-france.fr,julian isabelle,2021/2,2,3.29341317365269
+sudouest.fr,hall talence,2021/3,2,-1.58730158730159
+sudouest.fr,wood francw,2021/2,2,-2.45700245700246
+ouest-france.fr,sime darby,2021/1,2,-4.49438202247191
+ouest-france.fr,franois cuillandre,2021/2,2,0.729927007299271
+ouest-france.fr,sean hannity,2021/1,2,-2.99785867237687
+ouest-france.fr,isabelle balkany,2021/3,2,-3.50109409190372
+sudouest.fr,jens stoltenberg,2021/2,2,-5.0
+ouest-france.fr,rod phillips,2021/1,2,-1.74216027874565
+sudouest.fr,alain fischer,2021/1,2,-1.91570881226054
+ouest-france.fr,nicola sturgeon,2021/1,2,-0.239234449760765
+ouest-france.fr,pascal perrineau,2021/3,2,-3.78378378378378
+ouest-france.fr,mark esper,2021/1,2,-2.81425891181989
+sudouest.fr,edward philippe,2021/2,2,-1.16363636363636
+sudouest.fr,crazy horse,2021/3,2,-1.93050193050193
+ouest-france.fr,boris vallaud,2021/3,2,-3.86904761904762
+ouest-france.fr,matthew lebrun,2021/3,2,-1.54639175257732
+ouest-france.fr,rachid el,2021/3,2,-5.46448087431694
+ouest-france.fr,kamal khera,2021/1,2,-1.74216027874565
+ouest-france.fr,patrick boivin,2021/1,2,2.13523131672598
+ouest-france.fr,helmut kohl,2021/1,2,-1.35135135135135
+ouest-france.fr,brigitte bareges,2021/2,2,-7.01298701298701
+ouest-france.fr,cyberharceleur amanda,2021/2,2,1.15942028985507
+ouest-france.fr,guillaume maarten,2021/3,2,-4.16666666666667
+sudouest.fr,ngo oxfam,2021/3,2,0.22883295194508
+ouest-france.fr,camille stephen,2021/2,2,-4.09356725146199
+sudouest.fr,damien abad,2021/3,2,-3.0690537084399
+ouest-france.fr,christopher miller,2021/1,2,-2.81425891181989
+ouest-france.fr,raymond domenech,2021/1,2,0.862068965517242
+sudouest.fr,shinzo abe,2021/1,2,-3.08483290488432
+ouest-france.fr,marisa peyre,2021/3,2,-3.15898498187468
+sudouest.fr,statisticienne sheila,2021/3,2,-2.50941028858218
+ouest-france.fr,richard kuhn,2021/2,2,0.0
+ouest-france.fr,nathalie bernard,2021/2,2,3.15789473684211
+ouest-france.fr,gustave courbet,2021/2,2,-2.0501138952164
+ouest-france.fr,lenny romero,2021/1,2,-3.38345864661654
+ouest-france.fr,isabelle moreau,2021/3,2,-1.80722891566265
+sudouest.fr,christiane taubira,2021/3,2,-5.66666666666667
+ouest-france.fr,carole etienne,2021/3,2,-2.83018867924528
+ouest-france.fr,william cohen,2021/1,2,-2.81425891181989
+ouest-france.fr,winston churchill,2021/2,2,-0.859106529209622
+ouest-france.fr,parul koul,2021/1,2,-2.79542566709022
+ouest-france.fr,nicolas henin,2021/2,2,0.729927007299271
+ouest-france.fr,carole rousseau,2021/3,2,-1.36986301369863
+ouest-france.fr,denis baupin,2021/2,2,-6.56565656565657
+ouest-france.fr,santa maria,2021/2,2,-3.90738060781476
+ouest-france.fr,didier maarten,2021/2,2,-8.33333333333333
+ouest-france.fr,dominic dwyer,2021/2,2,-0.686498855835241
+ouest-france.fr,john david washington,2021/2,2,-0.961538461538462
+sudouest.fr,ravyn issa,2021/3,2,-6.71641791044776
+sudouest.fr,ali riza polat,2021/1,2,-9.12280701754386
+ouest-france.fr,thouarce alexander,2021/1,2,3.24675324675325
+sudouest.fr,michel banchereau,2021/3,2,-2.24358974358974
+ouest-france.fr,william perry,2021/1,2,-2.81425891181989
+ouest-france.fr,francoise gate,2021/3,2,-0.896860986547085
+ouest-france.fr,boris johnson reconfinement,2021/1,2,-1.93003618817853
+sudouest.fr,angouleme a lucia,2021/3,2,1.2448132780083
+sudouest.fr,prince harry,2021/2,2,-1.98675496688742
+ouest-france.fr,franois marie,2021/2,2,-2.0501138952164
+ouest-france.fr,adama bictogo,2021/3,2,0.282485875706214
+sudouest.fr,george a floyd,2021/3,2,-6.11111111111111
+sudouest.fr,mark mcgowan,2021/2,2,-5.88235294117647
+ouest-france.fr,franck daniel,2021/3,2,2.43161094224924
+sudouest.fr,ngozi okonjo-iweala,2021/2,2,1.84615384615385
+sudouest.fr,lrem michel dennemont,2021/3,2,-5.73770491803279
+sudouest.fr,ruth elkrief,2021/2,2,0.0
+ouest-france.fr,stuart mcneil,2021/2,2,1.52027027027027
+ouest-france.fr,albert stone,2021/3,2,-2.98507462686567
+sudouest.fr,kremlin dmitri peskov,2021/2,2,-6.70498084291188
+sudouest.fr,michel dennemont,2021/3,2,-5.73770491803279
+ouest-france.fr,nancy mathieu klein,2021/1,2,-3.60610263522885
+ouest-france.fr,philippe mithouard,2021/3,2,-4.19354838709677
+ouest-france.fr,ronal rodriguez,2021/2,2,-4.1871921182266
+ouest-france.fr,franois holland,2021/2,2,-2.8709541824295903
+sudouest.fr,laurence cohen,2021/2,2,-2.64026402640264
+sudouest.fr,boris johnson justin trudeau,2021/1,2,1.49501661129568
+ouest-france.fr,guay bertrand,2021/3,2,-4.58605634194499
+ouest-france.fr,audi ille,2021/3,2,-0.896860986547085
+sudouest.fr,roberto azevedo,2021/2,2,1.84615384615385
+ouest-france.fr,camille freslon-shadili,2021/1,2,-2.47524752475248
+ouest-france.fr,david pujadas,2021/1,2,1.27118644067797
+ouest-france.fr,arnaud viornery,2021/2,2,-3.7593984962406
+ouest-france.fr,maxim simon,2021/2,2,2.92682926829268
+sudouest.fr,roger sessions,2021/3,2,-1.61290322580645
+ouest-france.fr,kurt nelson,2021/3,2,1.15830115830116
+sudouest.fr,alexander chemetoff,2021/1,2,0.952380952380953
+sudouest.fr,isabelle autissier,2021/1,2,4.91223073190286
+sudouest.fr,sea sheperd,2021/3,2,-2.24358974358974
+sudouest.fr,mohamed bazoum,2021/1,2,-6.13026819923372
+ouest-france.fr,december brigitte bareges,2021/2,2,-7.01298701298701
+sudouest.fr,boris vallaud,2021/3,2,-3.0690537084399
+ouest-france.fr,fabrice carrat,2021/2,2,-4.20168067226891
+ouest-france.fr,gamer lenovo,2021/1,2,2.3643949930459
+sudouest.fr,elie tenenbaum,2021/1,2,-1.52027027027027
+ouest-france.fr,raymond aron,2021/1,2,-1.35135135135135
+sudouest.fr,darren klemm,2021/2,2,-5.88235294117647
+ouest-france.fr,peyton krebs,2021/1,2,0.174520069808028
+ouest-france.fr,donald jr,2021/1,2,-2.99785867237687
+ouest-france.fr,a caen dorian wolf,2021/1,2,0.72463768115942
+ouest-france.fr,christophe castaner,2021/1,2,-5.62770562770563
+sudouest.fr,laurent peyrondet,2021/3,2,-3.553053018945075
+ouest-france.fr,buona tavola,2021/3,2,1.15606936416185
+sudouest.fr,lindiquera matthew,2021/3,2,-7.40131578947368
+sudouest.fr,charles edward berry,2021/2,2,-5.06666666666667
+ouest-france.fr,smartbox macbook,2021/2,2,0.889453621346887
+ouest-france.fr,castle gontier,2021/2,2,3.05676855895197
+ouest-france.fr,martin luther,2021/1,2,0.0
+ouest-france.fr,notre-dame secours,2021/3,2,-1.27118644067797
+ouest-france.fr,a jerome lourdais,2021/3,2,0.598802395209581
+sudouest.fr,alibaba jack,2021/1,2,-6.88405797101449
+ouest-france.fr,john alexander,2021/1,2,3.24675324675325
+ouest-france.fr,afp perwin ibrahim,2021/3,2,-4.33839479392625
+sudouest.fr,myriam cheminade,2021/1,2,4.91223073190286
+sudouest.fr,leonid volkov,2021/2,2,-6.70498084291188
+ouest-france.fr,bernard paineau,2021/1,2,0.363636363636364
+ouest-france.fr,layon karim,2021/1,2,3.24675324675325
+sudouest.fr,america latin,2021/3,2,-0.6992236965259049
+sudouest.fr,ewen navarro,2021/1,2,-1.67364016736402
+sudouest.fr,arnaud gervais,2021/2,2,-7.63636363636364
+ouest-france.fr,mathias jarry,2021/2,2,-7.26392251815981
+ouest-france.fr,edmond alexis,2021/2,2,-2.0501138952164
+ouest-france.fr,philippe jehanno,2021/2,2,-8.33333333333333
+sudouest.fr,nicola notaro,2021/2,2,-7.73993808049535
+ouest-france.fr,leon panetta,2021/1,2,-2.81425891181989
+ouest-france.fr,okakao asina,2021/2,2,0.497512437810946
+ouest-france.fr,jair bolsonaro,2021/3,2,-4.95049504950495
+sudouest.fr,christine camdessus,2021/1,2,0.0
+ouest-france.fr,biden joe,2021/2,2,-6.16113744075829
+ouest-france.fr,jdlo letterpost,2021/3,2,-1.75438596491228
+sudouest.fr,christophe lambert,2021/3,2,2.14797136038186
+ouest-france.fr,rudy giuliani,2021/1,2,-2.99785867237687
+sudouest.fr,thierry santa,2021/3,2,-4.02684563758389
+ouest-france.fr,yannick burel,2021/1,2,-4.43349753694581
+ouest-france.fr,lrem jean-baptiste moreau,2021/2,2,-4.3613707165109
+sudouest.fr,rica alvarado,2021/1,2,1.49501661129568
+ouest-france.fr,julian renon letterpost,2021/3,2,2.56410256410256
+ouest-france.fr,bush a trelaze,2021/1,2,3.24675324675325
+ouest-france.fr,werner schneider,2021/2,2,-3.91134289439374
+sudouest.fr,alain cariou,2021/1,2,0.151515151515151
+sudouest.fr,yannick bestaven,2021/1,2,0.527240773286467
+sudouest.fr,philippe bush,2021/3,2,2.14797136038186
+ouest-france.fr,henry duke,2021/2,2,2.45614035087719
+ouest-france.fr,lodewijk asscher,2021/1,2,-2.96052631578947
+sudouest.fr,tedros adhanom,2021/1,2,1.49501661129568
+ouest-france.fr,manguy ilona,2021/1,2,3.24675324675325
+sudouest.fr,garonne gironde,2021/2,2,-3.4965034965035
+ouest-france.fr,laurence guilmo,2021/1,2,0.0
+ouest-france.fr,cantenay-epinard dauber,2021/1,2,3.24675324675325
+ouest-france.fr,henri guaino,2021/1,2,-2.96296296296296
+ouest-france.fr,christine lambrecht,2021/1,2,0.0
+sudouest.fr,patrick balkany,2021/1,2,-3.58565737051793
+ouest-france.fr,jeffrey epstein,2021/2,2,0.427350427350427
+ouest-france.fr,mark levin,2021/1,2,-2.99785867237687
+ouest-france.fr,chuck schumer,2021/3,2,0.183150183150183
+ouest-france.fr,europe john,2021/3,1,-2.55957634598411
+sudouest.fr,brians krebs,2021/3,1,-8.93470790378007
+sudouest.fr,madeleine chapsal,2021/1,1,1.21457489878543
+sudouest.fr,thierry zanardo,2021/3,1,-0.318471337579618
+sudouest.fr,abid aberkane,2021/2,1,-7.1656050955414
+ouest-france.fr,europe ursula,2021/3,1,-0.625
+ouest-france.fr,eugene oneill,2021/1,1,-3.33333333333333
+ouest-france.fr,samuel iglesias,2021/1,1,1.04895104895105
+ouest-france.fr,estelle marion,2021/2,1,4.04040404040404
+ouest-france.fr,edf jean-bernard lvy,2021/2,1,-3.15186246418338
+sudouest.fr,maarten bashir,2021/3,1,-3.84615384615385
+sudouest.fr,bachar al-assad,2021/3,1,-3.88127853881279
+sudouest.fr,narumi kurosaki,2021/1,1,-5.64102564102564
+ouest-france.fr,velyne laurent,2021/3,1,-2.1978021978022
+sudouest.fr,wajdi mouawad,2021/3,1,-0.187265917602996
+sudouest.fr,santa maria,2021/2,1,-3.71428571428571
+sudouest.fr,jens spahn,2021/2,1,-2.94117647058823
+sudouest.fr,antoine sfeir,2021/3,1,-3.92596747055524
+ouest-france.fr,damien deste,2021/2,1,-0.200803212851406
+sudouest.fr,alex perrin,2021/2,1,-7.14285714285714
+sudouest.fr,dominic ongwen,2021/2,1,-15.8490566037736
+ouest-france.fr,mathieu amalric,2021/1,1,3.55329949238579
+ouest-france.fr,quentin guillemain,2021/2,1,-2.53623188405797
+sudouest.fr,francis huster,2021/2,1,-1.0126582278481
+sudouest.fr,laurence patrick,2021/2,1,-1.0126582278481
+sudouest.fr,mark dufour,2021/3,1,-0.87719298245614
+ouest-france.fr,d hamed bakayoko,2021/3,1,-2.52100840336134
+ouest-france.fr,malvina talbot,2021/3,1,2.5974025974026
+sudouest.fr,donald kim jong,2021/1,1,-2.33333333333333
+ouest-france.fr,christophe rousseau,2021/3,1,-0.930851063829787
+ouest-france.fr,rennes maxim tessier,2021/3,1,-0.48780487804878
+sudouest.fr,nikita khrushchev,2021/2,1,-0.956937799043062
+sudouest.fr,selim fourniret,2021/2,1,-5.58002936857562
+ouest-france.fr,bernard laroche,2021/3,1,-1.45985401459854
+ouest-france.fr,suffren jean-jacques rousseau,2021/1,1,-3.24324324324324
+ouest-france.fr,grymyr jansen,2021/1,1,0.0
+sudouest.fr,villa costes,2021/3,1,0.76530612244898
+ouest-france.fr,belle hotesse,2021/1,1,-1.8348623853211
+ouest-france.fr,karine huet,2021/3,1,-0.72463768115942
+ouest-france.fr,amy dupray,2021/3,1,0.238663484486874
+sudouest.fr,avi loeb,2021/2,1,-1.70157068062827
+ouest-france.fr,thomas samson,2021/2,1,-0.925925925925926
+ouest-france.fr,cyril lignac,2021/1,1,-1.20481927710843
+ouest-france.fr,leslie linard,2021/2,1,-1.25
+ouest-france.fr,benoit felace letterpost,2021/1,1,-7.51445086705202
+ouest-france.fr,luc petithuguenin,2021/2,1,-1.18577075098814
+sudouest.fr,philippe elissalde,2021/3,1,0.234192037470726
+sudouest.fr,vincent maurin,2021/1,1,-6.07734806629834
+ouest-france.fr,xavier perrin,2021/2,1,2.9045643153527
+ouest-france.fr,square aristide briand,2021/2,1,-0.852878464818764
+sudouest.fr,ramuntxo labat-arramendy,2021/3,1,-1.50943396226415
+ouest-france.fr,lrem yannick,2021/3,1,-1.71428571428571
+sudouest.fr,irene montero,2021/3,1,-2.06489675516224
+sudouest.fr,janet yellen,2021/2,1,0.0
+ouest-france.fr,katsunobu kato,2021/2,1,-2.37467018469657
+ouestaf.com,sidibe coulibaly,2021/2,1,-0.481695568400771
+ouest-france.fr,lannion shelly,2021/1,1,-1.85185185185185
+sudouest.fr,diego antonio serrano,2021/2,1,-4.3613707165109
+ouest-france.fr,garibaldi lafayette,2021/2,1,-6.42201834862385
+ouest-france.fr,caroline landry,2021/3,1,-0.28328611898017
+sudouest.fr,angelina salanova,2021/3,1,-4.90654205607477
+ouest-france.fr,michel foucault,2021/3,1,-2.76657060518732
+ouest-france.fr,abdullah el-hamahmy,2021/1,1,-5.41125541125541
+sudouest.fr,maryline beyris,2021/1,1,1.0752688172043
+ouest-france.fr,ron dermer,2021/2,1,9.46502057613169
+ouest-france.fr,deezer claude,2021/2,1,0.930232558139535
+ouest-france.fr,fran lebowitz,2021/3,1,-0.72463768115942
+ouest-france.fr,yann lelong,2021/3,1,2.5089605734767
+ouest-france.fr,sun a autun,2021/2,1,-1.4218009478673
+sudouest.fr,valdo duclos,2021/1,1,-1.91082802547771
+sudouest.fr,georges leygues a villeneuve,2021/3,1,-1.51515151515152
+ouest-france.fr,afp billie,2021/3,1,-5.52486187845304
+sudouest.fr,jules ferry,2021/1,1,-1.11524163568773
+sudouest.fr,qassem al-rimi,2021/2,1,-6.97167755991285
+sudouest.fr,laurent foucke,2021/3,1,-8.92857142857143
+sudouest.fr,bruno lina,2021/2,1,-0.416666666666667
+sudouest.fr,marcel montegut,2021/3,1,-3.76712328767123
+ouest-france.fr,alain fischer,2021/3,1,0.619195046439629
+sudouest.fr,square verdun,2021/1,1,-7.17488789237668
+ouest-france.fr,lisbeth neraas,2021/1,1,0.0
+sudouest.fr,rudolf diesel,2021/3,1,1.19047619047619
+sudouest.fr,jahadis sammy djedou,2021/2,1,-7.1656050955414
+sudouest.fr,polly king,2021/2,1,-1.25673249551167
+ouest-france.fr,victorine aubert,2021/3,1,-4.01785714285714
+ouest-france.fr,sibyl laurent,2021/3,1,-0.947867298578199
+sudouest.fr,elvys dorchini,2021/3,1,-7.03125
+ouest-france.fr,mathieu spinosi,2021/2,1,-7.95454545454546
+ouest-france.fr,priti patel,2021/1,1,-4.59363957597173
+ouest-france.fr,jacques chirac,2021/2,1,-6.5989847715736
+ouest-france.fr,alain soral,2021/1,1,-3.72960372960373
+ouest-france.fr,serge hamon,2021/2,1,3.16091954022988
+ouest-france.fr,kamel boudraa,2021/1,1,3.23624595469256
+ouestaf.com,gnamien theodore,2021/2,1,0.64367816091954
+sudouest.fr,renaud muselier,2021/1,1,-2.15264187866928
+ouest-france.fr,mark a duke,2021/3,1,0.0
+ouest-france.fr,louis philippe,2021/3,1,0.26525198938992
+ouest-france.fr,cyril vaccaro,2021/3,1,-4.15704387990762
+ouest-france.fr,didier martin,2021/1,1,1.7283950617284
+sudouest.fr,pierre mathieu,2021/1,1,0.73126142595978
+sudouest.fr,jacques chaban-delmas,2021/2,1,-3.47826086956522
+ouest-france.fr,oliver dassault,2021/3,1,-0.220994475138121
+sudouest.fr,peter pan lartigaus,2021/3,1,0.0
+ouest-france.fr,teddy jauneau,2021/3,1,-4.6875
+ouest-france.fr,huisne sarthe,2021/2,1,2.80373831775701
+ouest-france.fr,li weibo,2021/2,1,-3.98126463700234
+ouestaf.com,mahamane usman,2021/3,1,-4.84581497797357
+ouest-france.fr,mohamed bazoum,2021/1,1,-8.11808118081181
+ouest-france.fr,alice rodrigues,2021/3,1,-5.41082164328657
+sudouest.fr,mark puidupin,2021/3,1,0.522193211488251
+sudouest.fr,morgan shepherd,2021/1,1,0.684931506849315
+ouest-france.fr,chris rowan,2021/2,1,-0.634920634920635
+ouest-france.fr,arnaud remy,2021/3,1,-3.2258064516129
+ouest-france.fr,ryan lequien,2021/1,1,1.15606936416185
+ouest-france.fr,philippe vi,2021/3,1,-0.491803278688525
+ouest-france.fr,lanrivain letterpost,2021/3,1,-1.85185185185185
+ouest-france.fr,rahul gandhi,2021/1,1,-3.3112582781457
+ouest-france.fr,julie tagliavacca,2021/1,1,3.38164251207729
+sudouest.fr,vincent merling,2021/1,1,5.19125683060109
+ouest-france.fr,justice niort,2021/2,1,2.10843373493976
+ouest-france.fr,november crozon,2021/2,1,-0.347222222222223
+ouest-france.fr,ehpad saint-franois,2021/3,1,0.0
+ouest-france.fr,john a john,2021/2,1,-6.19469026548673
+sudouest.fr,walid hamman,2021/2,1,-7.1656050955414
+sudouest.fr,las vegas,2021/1,1,0.82256169212691
+ouest-france.fr,okba ibn nafaa,2021/1,1,-9.49554896142433
+ouest-france.fr,celine meneses,2021/2,1,-3.63636363636364
+ouest-france.fr,benedict pellerin,2021/3,1,3.4412955465587
+ouest-france.fr,lara bellini,2021/2,1,-8.28877005347594
+sudouest.fr,opel corsa,2021/3,1,-7.36677115987461
+ouest-france.fr,thibault josse,2021/3,1,0.881057268722467
+sudouest.fr,satomi chan,2021/1,1,0.73126142595978
+ouest-france.fr,abdelaziz bouteflika,2021/1,1,-2.734375
+ouest-france.fr,jimmy barbin,2021/1,1,0.873362445414847
+sudouest.fr,villeneuvois mathieu gallet,2021/2,1,-4.45344129554656
+sudouest.fr,habib kalfat,2021/3,1,-2.3121387283237
+ouest-france.fr,john tristan,2021/3,1,0.671140939597315
+ouest-france.fr,sergey nivens,2021/2,1,-9.17874396135266
+sudouest.fr,lafayette garibaldi,2021/2,1,-4.05405405405405
+ouest-france.fr,johanna rolland,2021/3,1,-1.66270783847981
+ouest-france.fr,wajdi mouawad,2021/3,1,-0.72463768115942
+sudouest.fr,bruno lemaire,2021/1,1,0.684931506849315
+ouest-france.fr,claude giordano,2021/3,1,-0.22271714922049
+ouest-france.fr,alan dershowitz,2021/2,1,9.46502057613169
+sudouest.fr,mathieu auriol,2021/3,1,-1.20481927710843
+ouest-france.fr,bertrand bellanger,2021/2,1,-2.87610619469026
+ouest-france.fr,roger sessions,2021/1,1,1.42517814726841
+ouest-france.fr,benoit bernier,2021/2,1,-0.584795321637427
+ouest-france.fr,mark zuckerberg,2021/1,1,-3.10077519379845
+sudouest.fr,antoine gallimard,2021/2,1,-1.89873417721519
+sudouest.fr,chris murphy,2021/2,1,-5.24109014675052
+ouest-france.fr,christian perronne,2021/1,1,-3.18181818181818
+ouest-france.fr,patrick beauvais,2021/3,1,-3.25814536340852
+ouest-france.fr,anouk bouteloup letterpost,2021/1,1,1.39372822299652
+ouest-france.fr,chaira boudraa,2021/1,1,3.23624595469256
+ouest-france.fr,thomas renaud,2021/1,1,2.74223034734918
+ouest-france.fr,yoshihide suga,2021/3,1,-5.10344827586207
+ouest-france.fr,jean-paul noury,2021/2,1,-2.84237726098191
+sudouest.fr,mark guillaume,2021/3,1,-2.63929618768328
+ouest-france.fr,francis chouat,2021/2,1,-6.5989847715736
+sudouest.fr,florian kirchner,2021/3,1,-3.96825396825397
+ouest-france.fr,xavier nassir,2021/1,1,-0.234192037470726
+sudouest.fr,yves renier,2021/2,1,-5.58002936857562
+ouest-france.fr,luc mlenchon,2021/1,1,0.0
+sudouest.fr,a georges leygues,2021/3,1,-1.51515151515152
+ouest-france.fr,francis leroy,2021/1,1,-1.04712041884817
+ouest-france.fr,joel batteux,2021/2,1,1.86915887850467
+ouest-france.fr,saumur vale,2021/1,1,-2.76497695852535
+sudouest.fr,neal katyal,2021/3,1,-7.03851261620186
+ouest-france.fr,souladakis yannick kerlogot,2021/3,1,-1.71428571428571
+ouest-france.fr,john john,2021/1,1,1.72413793103448
+ouest-france.fr,corinne baker,2021/1,1,-4.51127819548872
+ouest-france.fr,philippe renault,2021/2,1,-5.22022838499184
+ouest-france.fr,alain lambert,2021/1,1,5.02793296089385
+sudouest.fr,liz throssell,2021/1,1,-2.29885057471264
+ouest-france.fr,cyril lacombe,2021/3,1,-4.31893687707641
+ouest-france.fr,magali grandet,2021/2,1,-2.46153846153846
+ouest-france.fr,jame gumb,2021/2,1,-0.634920634920635
+ouest-france.fr,deen kim,2021/1,1,-5.49065420560748
+ouest-france.fr,antonio guterres,2021/3,1,-7.08661417322835
+ouest-france.fr,kyriakos mitsotakis,2021/3,1,-7.21649484536083
+ouest-france.fr,jeanne lemoine,2021/2,1,-1.68918918918919
+sudouest.fr,thomas lefebvre,2021/1,1,0.962861072902338
+ouest-france.fr,herbert spencer,2021/2,1,1.75438596491228
+sudouest.fr,joseph mellard,2021/3,1,-9.9009900990099
+sudouest.fr,juan carlos,2021/3,1,-2.06489675516224
+ouest-france.fr,alain houpert,2021/2,1,-4.19354838709677
+ouest-france.fr,jared kushner,2021/2,1,9.46502057613169
+sudouest.fr,dantton bilek,2021/1,1,-0.568181818181818
+sudouest.fr,julie pasquet,2021/3,1,2.18978102189781
+ouest-france.fr,jacques battistoni,2021/1,1,0.217864923747277
+sudouest.fr,marjorie graham greene,2021/2,1,-7.75862068965517
+sudouest.fr,gaztelu zahar,2021/3,1,-2.12765957446809
+ouest-france.fr,emmanuelle wargon,2021/1,1,-5.88235294117647
+sudouest.fr,jen psaki,2021/3,1,-8.93470790378007
+ouest-france.fr,nathalie catherine,2021/3,1,-4.61538461538462
+sudouest.fr,john dory,2021/1,1,1.21457489878543
+ouest-france.fr,diab hasan,2021/1,1,-3.82022471910112
+ouest-france.fr,pascal bouchard,2021/2,1,2.8169014084507
+sudouest.fr,eric dupond-moretti,2021/2,1,-4.39189189189189
+ouest-france.fr,pravind jugnauth,2021/3,1,-3.37837837837838
+ouest-france.fr,byun hee-soo,2021/3,1,-6.02240896358543
+ouest-france.fr,baptist langlois,2021/1,1,1.61290322580645
+sudouest.fr,julie gaston,2021/3,1,-3.98126463700234
+sudouest.fr,al khatib,2021/3,1,-7.07692307692308
+ouest-france.fr,allah akbar,2021/1,1,-5.41125541125541
+ouest-france.fr,mariette thom maurane,2021/3,1,-10.7692307692308
+ouest-france.fr,fabian letterpost,2021/1,1,-1.6025641025641
+ouest-france.fr,philippe vieira,2021/2,1,-2.15343203230148
+ouest-france.fr,lydia cordray,2021/2,1,-3.86473429951691
+ouest-france.fr,perriere a lorient,2021/2,1,-1.01010101010101
+ouest-france.fr,george hautot,2021/1,1,0.260416666666667
+ouest-france.fr,fabrice fourmanoir,2021/1,1,-0.119331742243436
+ouest-france.fr,timothy wilks,2021/2,1,-7.14285714285714
+ouest-france.fr,alain shabbat,2021/3,1,2.52707581227437
+sudouest.fr,guillaume getz,2021/3,1,-5.41516245487365
+ouest-france.fr,selwyn jones,2021/3,1,-5.53571428571429
+ouest-france.fr,lrem sacha,2021/2,1,-6.5989847715736
+ouest-france.fr,maarten bashir,2021/3,1,-2.01342281879195
+sudouest.fr,a pope franois,2021/3,1,-4.4
+ouest-france.fr,franois ruffin,2021/3,1,-5.64102564102564
+ouest-france.fr,katniss everdeen,2021/2,1,-2.38805970149254
+ouest-france.fr,camille ferronniere letterpost,2021/1,1,-1.17647058823529
+sudouest.fr,states states,2021/2,1,-6.09137055837564
+ouest-france.fr,joel giraud,2021/3,1,-0.132275132275133
+ouest-france.fr,fred tanneau jennifer chainay,2021/2,1,4.37956204379562
+ouest-france.fr,atlantic audrey dufeu,2021/3,1,-1.06157112526539
+sudouest.fr,bordeaux dipongo,2021/1,1,0.82256169212691
+ouest-france.fr,isabelle mangou,2021/2,1,0.966183574879227
+sudouest.fr,philippe astruc,2021/1,1,-5.88235294117647
+ouest-france.fr,christian lemaire,2021/2,1,-3.86473429951691
+sudouest.fr,catholic pope,2021/3,1,0.0
+ouest-france.fr,louisa hanoune,2021/1,1,-2.734375
+ouest-france.fr,maxim tessier,2021/3,1,-0.48780487804878
+ouest-france.fr,diana van,2021/3,1,-3.67231638418079
+ouest-france.fr,baptist niort,2021/3,1,-0.367647058823529
+sudouest.fr,arnold schwarzenegger,2021/1,1,-4.11311053984576
+ouest-france.fr,clare blanchard,2021/1,1,0.0
+sudouest.fr,herbert spencer,2021/1,1,-5.16304347826087
+sudouest.fr,charles dayot,2021/2,1,-4.40414507772021
+ouest-france.fr,antoine fruchard,2021/2,1,2.82485875706215
+ouest-france.fr,christophe bernard,2021/2,1,0.0
+ouest-france.fr,freddy tessier,2021/3,1,5.23255813953488
+ouest-france.fr,varga judit,2021/1,1,-3.10077519379845
+sudouest.fr,bill clinton,2021/2,1,-5.3030303030303
+sudouest.fr,villeneuvois dingreville,2021/3,1,4.46601941747573
+ouest-france.fr,didier girard,2021/1,1,0.0
+ouest-france.fr,sophie patterson-spatz,2021/2,1,-12.1359223300971
+ouest-france.fr,europe socorridos,2021/2,1,-7.79220779220779
+ouest-france.fr,emmanuel aubry,2021/3,1,0.0
+ouest-france.fr,cho rizo,2021/2,1,-7.72200772200772
+sudouest.fr,paul abadie,2021/1,1,-0.595238095238095
+sudouest.fr,norman rockwell,2021/3,1,-6.49717514124294
+ouest-france.fr,damien girard,2021/2,1,0.0
+sudouest.fr,hubert falco,2021/2,1,-4.05405405405405
+sudouest.fr,afp stefan,2021/1,1,-0.157232704402515
+ouest-france.fr,philippe lopez,2021/3,1,-4.0983606557377
+ouest-france.fr,luc lemoine,2021/2,1,0.50761421319797
+ouest-france.fr,sandrine williamson,2021/1,1,-3.72670807453416
+ouest-france.fr,valentine davodeau,2021/3,1,8.79120879120879
+ouest-france.fr,nadine boumard,2021/3,1,-1.12994350282486
+sudouest.fr,thierry dumas,2021/3,1,4.46601941747573
+ouest-france.fr,narendra modi,2021/1,1,-3.3112582781457
+ouest-france.fr,eric a alain,2021/3,1,-1.16279069767442
+ouest-france.fr,a damien seguin,2021/1,1,0.378787878787879
+ouest-france.fr,alfred nobel,2021/2,1,9.46502057613169
+ouest-france.fr,jules verne,2021/3,1,0.128040973111395
+ouest-france.fr,christian rodriguez,2021/1,1,-0.302114803625378
+sudouest.fr,jacqueline gourault,2021/1,1,3.35195530726257
+ouest-france.fr,laura dubosq,2021/2,1,-5.51181102362205
+ouest-france.fr,souladakis jean-christophe lagarde,2021/3,1,-1.89873417721519
+ouest-france.fr,jonathan demme,2021/2,1,-0.634920634920635
+ouest-france.fr,ravyn issa,2021/3,1,-9.00562851782364
+ouest-france.fr,caroline marty,2021/3,1,-9.00562851782364
+ouestaf.com,toumany diallo,2021/2,1,-0.481695568400771
+ouest-france.fr,jamal el hashem,2021/3,1,-0.28328611898017
+sudouest.fr,nicolas zepeda,2021/1,1,-5.64102564102564
+sudouest.fr,afif lazrak,2021/1,1,-4.04624277456647
+ouest-france.fr,cyprien mercier,2021/1,1,-12.6760563380282
+ouest-france.fr,xavier breton,2021/1,1,-3.60655737704918
+ouest-france.fr,kris jenner,2021/1,1,-1.2216404886562
+ouest-france.fr,christophe bush,2021/1,1,-0.467289719626168
+sudouest.fr,louise michel,2021/3,1,-4.98084291187739
+sudouest.fr,michel etchegaray,2021/1,1,2.8735632183908
+ouest-france.fr,king harald,2021/1,1,0.0
+sudouest.fr,ikea ikea,2021/2,1,-1.40252454417952
+ouest-france.fr,september a rouen,2021/3,1,-5.02283105022831
+ouest-france.fr,saint-brieuc guihard,2021/3,1,0.0
+ouest-france.fr,hubert falco,2021/3,1,-4.24028268551237
+sudouest.fr,alain schutt,2021/3,1,-9.9009900990099
+sudouest.fr,victor faget,2021/3,1,-2.24358974358974
+sudouest.fr,sahara occidenta,2021/2,1,-0.72639225181598
+ouest-france.fr,pablo picasso,2021/1,1,-0.119331742243436
+ouest-france.fr,pascal brunet,2021/3,1,-1.96078431372549
+sudouest.fr,coutances cyril lacombe,2021/3,1,-6.97674418604651
+ouest-france.fr,gatien hugo-riposseau,2021/3,1,-5.41082164328657
+ouest-france.fr,april a johan,2021/2,1,1.06761565836299
+ouest-france.fr,bolsonaro cantor,2021/2,1,0.579710144927536
+ouest-france.fr,trotskyist louisa hanoune,2021/1,1,-2.734375
+ouest-france.fr,serge bouju,2021/3,1,-3.30882352941176
+ouest-france.fr,deborah feldman,2021/3,1,0.128040973111395
+ouest-france.fr,david samzun,2021/2,1,2.9045643153527
+ouest-france.fr,pnf patrick amar,2021/3,1,-4.49678800856531
+ouest-france.fr,fabian leduc,2021/3,1,2.8436018957346
+sudouest.fr,laurent costes,2021/3,1,0.76530612244898
+sudouest.fr,queen marie-antoinette,2021/3,1,-2.47229326513214
+sudouest.fr,chiara mastroianni,2021/3,1,-1.50375939849624
+ouest-france.fr,pascal martin,2021/1,1,-0.564971751412429
+ouest-france.fr,akira sato,2021/3,1,-5.10344827586207
+sudouest.fr,jean-philippe granger,2021/2,1,1.54639175257732
+ouest-france.fr,florent buguet,2021/1,1,-1.6025641025641
+ouest-france.fr,eddy lemaistre,2021/1,1,-10.6796116504854
+sudouest.fr,josiane knight,2021/1,1,-5.52486187845304
+sudouest.fr,arnaud montebourg,2021/2,1,-0.956937799043062
+sudouest.fr,e damien legrand,2021/3,1,-7.36677115987461
+sudouest.fr,villeneuve schaaf,2021/2,1,1.14285714285714
+sudouest.fr,mazen darwish,2021/3,1,-7.07692307692308
+ouest-france.fr,toulouse mohamed,2021/1,1,-4.3859649122807
+ouest-france.fr,gregor mazo,2021/3,1,0.759493670886076
+ouest-france.fr,tedros adhanom ghebreyesus,2021/1,1,-1.11524163568773
+ouest-france.fr,elisabeth hubert,2021/3,1,2.47933884297521
+madeinfoot.ouest-france.fr,moriba griezmann,2021/3,1,-3.38983050847458
+sudouest.fr,louisa hanoune,2021/1,1,-4.48979591836735
+sudouest.fr,meghan a winfrey,2021/3,1,-1.49253731343284
+ouest-france.fr,jean-bernard lvy,2021/2,1,-3.15186246418338
+sudouest.fr,freddy focks,2021/3,1,1.29449838187702
+ouest-france.fr,johann faure,2021/1,1,1.7283950617284
+ouest-france.fr,natacha lindinger,2021/1,1,-2.24215246636771
+ouest-france.fr,ruth dreifuss,2021/2,1,0.851063829787234
+ouest-france.fr,michel reynaud,2021/1,1,-0.165837479270315
+sudouest.fr,franois holland,2021/3,1,0.627615062761506
+ouest-france.fr,lavra barbe,2021/3,1,-3.02325581395349
+ouest-france.fr,sandrine peraud,2021/3,1,-3.55329949238579
+ouest-france.fr,ken follett,2021/3,1,2.67175572519084
+sudouest.fr,matt hancock,2021/1,1,-1.64948453608247
+sudouest.fr,jens spahn,2021/3,1,0.862068965517241
+ouest-france.fr,fabrice rubiella,2021/3,1,-4.45859872611465
+ouest-france.fr,square travot,2021/2,1,-4.76190476190476
+ouest-france.fr,stephane mulliez,2021/1,1,-2.38095238095238
+ouest-france.fr,nathalie durand-prinborgne,2021/1,1,-0.467289719626168
+ouest-france.fr,mt saint-michel,2021/2,1,-0.662251655629139
+ouest-france.fr,easter pineau,2021/3,1,1.60427807486631
+ouest-france.fr,isabelle knowles,2021/1,1,1.93236714975845
+ouest-france.fr,julian lesage,2021/3,1,4.64285714285714
+ouest-france.fr,medef geoffroy,2021/2,1,-2.1978021978022
+ouest-france.fr,mariette thom,2021/2,1,1.50753768844221
+sudouest.fr,isabelle paquereau,2021/1,1,0.675675675675675
+ouest-france.fr,victorine dartois,2021/2,1,-9.09090909090909
+ouest-france.fr,square notre-dame,2021/2,1,0.896860986547085
+ouest-france.fr,horn armel,2021/2,1,0.053676865271068
+ouest-france.fr,lucia weeger linda,2021/2,1,-2.22222222222222
+ouest-france.fr,quimper cornwall,2021/3,1,6.83760683760684
+sudouest.fr,olaf scholz,2021/2,1,-2.94117647058823
+sudouest.fr,alassane ouattara,2021/3,1,-2.60416666666667
+sudouest.fr,souladakis dombreval,2021/3,1,2.67857142857143
+sudouest.fr,el nino,2021/1,1,-0.157232704402515
+ouest-france.fr,catherine malbranque,2021/2,1,-3.63636363636364
+ouest-france.fr,pontoise bobigny,2021/2,1,-6.57894736842105
+sudouest.fr,sandra lindsay,2021/3,1,-3.69230769230769
+sudouest.fr,nvidia tegra,2021/3,1,-3.76811594202899
+ouest-france.fr,roschdy zem,2021/3,1,-1.44230769230769
+ouest-france.fr,sibyl laurent,2021/2,1,0.930232558139535
+sudouest.fr,marcelo neri,2021/1,1,-4.60992907801418
+ouest-france.fr,mark guillaume,2021/2,1,-5.14705882352941
+sudouest.fr,saddleworth victor faget,2021/3,1,-2.24358974358974
+ouest-france.fr,raymonde poncet-monge,2021/3,1,-3.44827586206897
+sudouest.fr,axel brucker,2021/3,1,-2.12765957446809
+ouest-france.fr,philippe a saint-nazaire,2021/3,1,-7.57575757575758
+ouest-france.fr,saumur vale,2021/2,1,0.0
+ouest-france.fr,nicolas mark,2021/3,1,1.63934426229508
+ouest-france.fr,christophe tostain,2021/3,1,-6.13496932515337
+ouest-france.fr,hubert vedrine,2021/1,1,-0.91324200913242
+ouest-france.fr,leica cartier-bresson,2021/3,1,0.0
+ouest-france.fr,julian aubert,2021/3,1,-5.64102564102564
+sudouest.fr,trotskyist louisa hanoune,2021/1,1,-4.48979591836735
+ouest-france.fr,abu mohammed al-adnani,2021/1,1,-5.41125541125541
+sudouest.fr,laurent poncet,2021/3,1,-3.96825396825397
+ouest-france.fr,zealand herald,2021/3,1,-7.28476821192053
+ouest-france.fr,benoit a breton,2021/3,1,-5.82959641255605
+ouestaf.com,mohamed bazoum,2021/3,1,-4.84581497797357
+ouest-france.fr,patrick depirou,2021/2,1,-7.40740740740741
+ouest-france.fr,jean-pierre pernaut,2021/1,1,0.305343511450382
+sudouest.fr,saad atef el-aoulaqi,2021/2,1,-6.97167755991285
+ouest-france.fr,julian lesage yves,2021/3,1,4.64285714285714
+sudouest.fr,gironde wezir,2021/1,1,0.82256169212691
+ouest-france.fr,alexander vincendet,2021/3,1,-6.31067961165049
+sudouest.fr,patrick pujol,2021/1,1,0.0
+sudouest.fr,christian schneider,2021/3,1,-0.802139037433155
+ouest-france.fr,athmane tartag,2021/1,1,-2.734375
+ouest-france.fr,luc dubois,2021/3,1,0.649350649350649
+ouest-france.fr,jorge bergoglio,2021/1,1,-1.48367952522255
+ouest-france.fr,michel lafosse,2021/2,1,-1.78571428571429
+ouest-france.fr,rousselot colette,2021/3,1,-0.220994475138121
+ouest-france.fr,jean-paul boisneau,2021/3,1,-0.268817204301075
+ouest-france.fr,jean-bernard bush,2021/2,1,1.74672489082969
+sudouest.fr,alexander novak,2021/3,1,-0.318471337579618
+ouest-france.fr,mathis cantin,2021/3,1,-1.58730158730159
+sudouest.fr,karine signac,2021/1,1,-1.86915887850467
+ouest-france.fr,franois holland,2021/1,1,-0.91324200913242
+ouest-france.fr,li chunyan,2021/2,1,1.82149362477231
+ouest-france.fr,cyril duval,2021/1,1,3.46020761245675
+sudouest.fr,philippe martinez,2021/1,1,-3.21428571428571
+ouest-france.fr,mount chaambi,2021/1,1,-9.49554896142433
+ouest-france.fr,athanor a guerande,2021/3,1,-0.763358778625954
+ouest-france.fr,alice meyer,2021/3,1,1.57894736842105
+ouest-france.fr,quarya rajendran,2021/1,1,0.537634408602151
+ouest-france.fr,pavlos bakoyannis,2021/3,1,-7.21649484536083
+ouest-france.fr,mohamad fehmi,2021/1,1,-3.82022471910112
+sudouest.fr,michel garcia,2021/2,1,-4.40414507772021
+ouest-france.fr,geert wilders,2021/2,1,2.94117647058823
+sudouest.fr,charles prost,2021/3,1,-9.9009900990099
+ouest-france.fr,emilia briand,2021/2,1,2.10280373831776
+ouest-france.fr,herve petitbon,2021/3,1,1.45631067961165
+ouest-france.fr,simon cohen,2021/1,1,-4.3859649122807
+sudouest.fr,james hogg,2021/2,1,-7.75862068965517
+ouest-france.fr,afp jean-louis,2021/2,1,-1.68539325842697
+ouest-france.fr,nathalie hamon,2021/1,1,0.956937799043062
+ouest-france.fr,philippe carli,2021/3,1,-6.13496932515337
+ouest-france.fr,loick a brown,2021/2,1,-3.42857142857143
+sudouest.fr,luc gleyze,2021/1,1,0.645161290322581
+sudouest.fr,miri regev,2021/2,1,0.0
+ouest-france.fr,caroline tichit,2021/1,1,-1.16279069767442
+sudouest.fr,ana laura,2021/3,1,-0.87719298245614
+sudouest.fr,susana lastreto prieto,2021/3,1,-0.87719298245614
+ouest-france.fr,brigitte autran,2021/2,1,-0.280898876404495
+sudouest.fr,marie curie,2021/3,1,-2.77777777777778
+sudouest.fr,lalanne nathalie,2021/1,1,2.10526315789474
+ouest-france.fr,lavra alder,2021/1,1,0.61633281972265
+sudouest.fr,biden joe,2021/2,1,-5.24109014675052
+sudouest.fr,jean-louis touraine,2021/3,1,-2.62390670553936
+sudouest.fr,william green,2021/3,1,0.627615062761506
+ouest-france.fr,mohsen dali,2021/1,1,-9.49554896142433
+sudouest.fr,sandrine casini,2021/2,1,-4.40414507772021
+madeinfoot.ouest-france.fr,usman dembele,2021/3,1,-3.38983050847458
+ouest-france.fr,karim tamourtbir,2021/3,1,-1.96078431372549
+ouest-france.fr,sabrina ouazzani,2021/3,1,-0.28328611898017
+sudouest.fr,mathieu gallet,2021/2,1,-4.45344129554656
+ouest-france.fr,jean-louis bretin,2021/1,1,-2.58620689655172
+sudouest.fr,michel rocard,2021/2,1,-2.81124497991968
+ouest-france.fr,nastasia lewandowski,2021/3,1,2.40384615384615
+ouest-france.fr,daniel pennac,2021/1,1,-1.6260162601626
+ouest-france.fr,john dory,2021/1,1,0.510204081632653
+sudouest.fr,august meyer,2021/3,1,-9.9009900990099
+sudouest.fr,trifon trifonov,2021/3,1,1.1214953271028
+ouest-france.fr,patrick leconte,2021/2,1,-2.93225480283114
+sudouest.fr,christophe ellul,2021/3,1,-5.45023696682464
+ouest-france.fr,sandrine rousseau,2021/1,1,-8.85245901639344
+ouest-france.fr,indian ocean,2021/1,1,1.03448275862069
+ouest-france.fr,shani wilson,2021/3,1,-6.10079575596817
+sudouest.fr,sussex a winfrey,2021/3,1,-4.74137931034483
+ouest-france.fr,vincent brenghart,2021/1,1,-4.3859649122807
+ouest-france.fr,joannic maarten,2021/2,1,3.46320346320346
+ouest-france.fr,arnaud leclerc,2021/3,1,-4.48430493273543
+sudouest.fr,sebastian kurz,2021/2,1,-3.71428571428571
+sudouest.fr,tedros adhanom,2021/3,1,-3.88888888888889
+sudouest.fr,souladakis lrem,2021/3,1,2.67857142857143
+ouest-france.fr,saad hariri,2021/2,1,-10.5793450881612
+ouest-france.fr,guillaume getz,2021/3,1,-4.57746478873239
+ouest-france.fr,henri matisse,2021/1,1,-0.119331742243436
+ouest-france.fr,grant shapps,2021/1,1,-5.04201680672269
+ouest-france.fr,claude courtet,2021/3,1,-0.434782608695652
+sudouest.fr,reims matthew,2021/3,1,-9.67741935483871
+ouest-france.fr,vincent bard,2021/2,1,-6.57894736842105
+ouest-france.fr,davy hamelin,2021/2,1,-0.854700854700854
+ouest-france.fr,jean-louis touraine,2021/3,1,-1.171875
+ouest-france.fr,roman attanasio,2021/2,1,0.053676865271068
+sudouest.fr,victorine dartois,2021/2,1,-9.93975903614458
+ouest-france.fr,annie genevard,2021/2,1,-6.5989847715736
+ouest-france.fr,nicolas smith,2021/3,1,1.39372822299652
+ouestaf.com,souladakis usman sonko,2021/3,1,-4.95867768595041
+ouest-france.fr,gabriel attal,2021/3,1,0.0
+ouest-france.fr,kristine sutherland,2021/3,1,-3.60866078588613
+sudouest.fr,christian rousseau,2021/3,1,-0.318471337579618
+ouest-france.fr,eric bouillard,2021/1,1,-8.85245901639344
+ouest-france.fr,delphine alexander,2021/3,1,-1.31578947368421
+sudouest.fr,a duchre a lyons,2021/3,1,-4.63917525773196
+sudouest.fr,yusri yunus,2021/1,1,-2.21238938053097
+ouest-france.fr,william belknap,2021/2,1,-3.30188679245283
+ouest-france.fr,ifremer franois,2021/3,1,-1.90735694822888
+sudouest.fr,nicolas rabault,2021/3,1,3.42298288508557
+sudouest.fr,catalan jaume,2021/3,1,3.8961038961039
+ouest-france.fr,afp eric,2021/3,1,-1.45985401459854
+ouest-france.fr,serge dassault,2021/3,1,-0.220994475138121
+ouest-france.fr,tim kaine,2021/2,1,-3.30188679245283
+sudouest.fr,gavin williamson,2021/1,1,-1.64948453608247
+ouest-france.fr,breton thierry,2021/2,1,1.14122681883024
+ouest-france.fr,isabelle bernard,2021/3,1,1.11524163568773
+sudouest.fr,limougeaud legrand,2021/1,1,0.82256169212691
+ouest-france.fr,nicolas dufourcq,2021/2,1,1.35746606334842
+ouest-france.fr,kate obrien,2021/1,1,0.0
+ouest-france.fr,sandrine desjars,2021/1,1,0.796812749003984
+sudouest.fr,annie etchegaray,2021/1,1,2.8735632183908
+ouest-france.fr,stanislas nordey,2021/1,1,-2.0979020979021
+ouest-france.fr,franck mariette,2021/2,1,1.74672489082969
+ouest-france.fr,brice smith,2021/2,1,-0.45045045045045
+ouest-france.fr,mireille puau,2021/2,1,2.45098039215686
+ouest-france.fr,lydia davy,2021/1,1,0.890207715133531
+sudouest.fr,jair bolsonaro,2021/1,1,-4.60992907801418
+ouest-france.fr,perigord a anjou,2021/3,1,-0.132275132275133
+sudouest.fr,daphne brki,2021/2,1,2.72373540856031
+ouest-france.fr,alex edelman,2021/3,1,-4.5662100456621
+ouest-france.fr,franois holland,2021/3,1,-0.373134328358209
+sudouest.fr,joseph zimet,2021/1,1,0.0
+ouest-france.fr,john angell,2021/1,1,-2.69413629160063
+sudouest.fr,selwyn jones,2021/3,1,-4.32098765432099
+ouest-france.fr,julian cohen,2021/3,1,-1.13960113960114
+ouest-france.fr,nicole simon,2021/1,1,1.93236714975845
+ouest-france.fr,sarthe aveze,2021/1,1,1.36363636363636
+ouest-france.fr,magali heurtin,2021/1,1,1.39372822299652
+ouest-france.fr,fabian leduc,2021/2,1,-0.492610837438424
+ouest-france.fr,alioune badara,2021/3,1,-5.83190394511149
+ouest-france.fr,pascal lumineau,2021/2,1,-3.00751879699248
+ouest-france.fr,greta thunberg,2021/1,1,-2.10526315789474
+ouest-france.fr,matt jones,2021/1,1,-5.49065420560748
+ouest-france.fr,reims matthew,2021/3,1,-10.6918238993711
+ouest-france.fr,christmas a lannion,2021/1,1,0.952380952380952
+ouest-france.fr,samia soultani,2021/1,1,-0.40983606557377
+sudouest.fr,lexaminateur toulouse,2021/3,1,-2.32558139534884
+sudouest.fr,kim jong,2021/1,1,-2.33333333333333
+ouest-france.fr,pauline depirou,2021/2,1,-7.40740740740741
+sudouest.fr,adrien finch,2021/1,1,0.943396226415094
+ouest-france.fr,eric coquerel,2021/3,1,-0.22271714922049
+sudouest.fr,klaus kinzler,2021/3,1,-9.55223880597015
+sudouest.fr,jean-paul sartre,2021/3,1,-2.47229326513214
+sudouest.fr,hacne chibane,2021/3,1,-1.74291938997821
+ouest-france.fr,roger sessions,2021/2,1,3.28467153284672
+sudouest.fr,annie bartal,2021/3,1,-3.01204819277108
+ouest-france.fr,brigitte studer,2021/2,1,0.851063829787234
+sudouest.fr,square franois,2021/3,1,-5.22388059701492
+ouestaf.com,states africa,2021/2,1,0.64367816091954
+ouest-france.fr,quentin welsh,2021/3,1,0.0
+ouest-france.fr,eddy lemaitre,2021/1,1,-5.6910569105691
+ouest-france.fr,nicolas thellier,2021/3,1,0.409836065573771
+ouest-france.fr,charles herbert best,2021/2,1,0.0
+sudouest.fr,stanislas nordey,2021/1,1,-2.65151515151515
+ouest-france.fr,solenn gaudichon,2021/1,1,-4.51127819548872
+ouest-france.fr,antoine laurent,2021/1,1,-1.17647058823529
+sudouest.fr,loris tolot,2021/3,1,-0.436681222707423
+ouest-france.fr,fukushima daiichi,2021/3,1,-5.10344827586207
+ouest-france.fr,christophe oswald,2021/2,1,-3.63636363636364
+sudouest.fr,sarit reuven,2021/2,1,0.0
+sudouest.fr,taieb talbi,2021/3,1,-3.92596747055524
+sudouest.fr,medef geoffroy,2021/2,1,-1.40252454417952
+ouest-france.fr,mars leslie townes,2021/2,1,0.74294205052006
+sudouest.fr,oloron-sainte-marie christophe,2021/3,1,-3.29512893982808
+sudouest.fr,malala yousafzai,2021/3,1,-0.641025641025641
+ouest-france.fr,tchoma bangou,2021/1,1,-8.11808118081181
+ouest-france.fr,afp khin maung zaw,2021/2,1,-8.63636363636364
+ouest-france.fr,eric dupuis,2021/2,1,-5.22022838499184
+ouest-france.fr,michel tessier,2021/3,1,-3.48837209302326
+ouest-france.fr,cyrille cohen,2021/2,1,-1.16279069767442
+ouest-france.fr,camilla parker bowles,2021/3,1,-2.01342281879195
+sudouest.fr,julian sanchez,2021/2,1,-5.57377049180328
+ouest-france.fr,beatrice dupuis,2021/2,1,0.625
+ouest-france.fr,bella sankey,2021/1,1,-4.59363957597173
+sudouest.fr,square a venice,2021/2,1,-2.10084033613445
+sudouest.fr,thierry dumas,2021/2,1,1.14285714285714
+sudouest.fr,ludovico einaudi,2021/1,1,-0.568181818181818
+ouest-france.fr,alexander brunet,2021/3,1,-1.96078431372549
+sudouest.fr,alain fischer,2021/3,1,0.977198697068403
+sudouest.fr,ethan siegel,2021/2,1,-1.70157068062827
+ouest-france.fr,martine abele,2021/1,1,-6.4
+sudouest.fr,mont-saint-michel abbey,2021/3,1,-6.97674418604651
+sudouest.fr,damien desormeaux,2021/1,1,-6.07734806629834
+sudouest.fr,salim abdool karim,2021/2,1,-0.72639225181598
+ouest-france.fr,helene michel,2021/3,1,-0.763358778625954
+sudouest.fr,florence gaudin,2021/3,1,0.201612903225807
+sudouest.fr,david pereira,2021/2,1,-1.40252454417952
+ouest-france.fr,nathalie latour,2021/1,1,-0.165837479270315
+ouest-france.fr,barbara pompili,2021/2,1,1.78571428571429
+ouest-france.fr,roman boutron,2021/1,1,0.363636363636363
+ouest-france.fr,leonel soares,2021/1,1,-1.46750524109015
+ouest-france.fr,jeff pachoud,2021/2,1,-0.884955752212389
+ouest-france.fr,hercules edf,2021/2,1,-3.15186246418338
+ouest-france.fr,andy cohen,2021/3,1,2.56410256410256
+ouest-france.fr,mount saint-michel,2021/1,1,-0.854700854700855
+ouest-france.fr,alexander berthelot,2021/1,1,0.892857142857143
+ouest-france.fr,les etats,2021/2,1,-0.447761194029851
+ouest-france.fr,prasetiyo adhi wibowo,2021/2,1,-3.59712230215827
+ouest-france.fr,weibo wechat,2021/3,1,-5.75916230366492
+ouest-france.fr,white tiger,2021/2,1,-3.59712230215827
+ouest-france.fr,holden jones,2021/3,1,-0.522648083623694
+sudouest.fr,zweli mkhize,2021/2,1,-0.72639225181598
+sudouest.fr,jean-marc abadie,2021/2,1,-0.717703349282297
+sudouest.fr,queen elizabeth,2021/3,1,3.16091954022989
+ouest-france.fr,arnaud vaslin,2021/3,1,-4.01785714285714
+ouest-france.fr,emglev bro douarnenez,2021/2,1,2.46913580246914
+ouest-france.fr,jacques chirac,2021/1,1,-0.91324200913242
+ouest-france.fr,bernard arnault,2021/1,1,1.85185185185185
+ouest-france.fr,napoleon bonaparte,2021/3,1,0.26525198938992
+ouest-france.fr,stephane rotenberg,2021/2,1,0.659340659340659
+sudouest.fr,simone veil,2021/3,1,-2.47229326513214
+ouest-france.fr,valentine bechu,2021/1,1,0.952380952380952
+sudouest.fr,nicolas brugre,2021/3,1,-2.26244343891403
+ouest-france.fr,david schwimmer,2021/3,1,2.56410256410256
+sudouest.fr,michel fourniret,2021/2,1,-5.58002936857562
+ouest-france.fr,kim wilde,2021/2,1,7.58620689655172
+ouest-france.fr,david pereira,2021/2,1,-2.1978021978022
+ouest-france.fr,van gogh vincent,2021/1,1,-0.119331742243436
+ouest-france.fr,anjou geschlossenen,2021/2,1,0.884955752212389
+ouest-france.fr,george henri,2021/1,1,0.260416666666667
+ouest-france.fr,nicolas smith aignan,2021/3,1,1.39372822299652
+sudouest.fr,abdelaziz bouteflika,2021/1,1,-4.48979591836735
+ouestaf.com,cross africa,2021/3,1,-1.8348623853211
+ouest-france.fr,julian aubert,2021/2,1,-3.15186246418338
+ouest-france.fr,myo nyunt,2021/2,1,-0.303951367781155
+ouest-france.fr,niort bernard,2021/1,1,2.30769230769231
+ouest-france.fr,tyler wright,2021/1,1,2.30547550432277
+ouest-france.fr,emer cooke,2021/1,1,3.05343511450382
+ouest-france.fr,marcel dassault,2021/3,1,-0.220994475138121
+ouest-france.fr,eiffage bouygues,2021/3,1,-3.02325581395349
+ouest-france.fr,arya rajendran,2021/1,1,0.537634408602151
+ouest-france.fr,patricia macdonald,2021/2,1,-7.95454545454546
+ouest-france.fr,simone cravignac,2021/1,1,-3.63636363636364
+sudouest.fr,hamed bakayoko,2021/3,1,-2.60416666666667
+sudouest.fr,mark pulvar,2021/2,1,-2.87610619469027
+ouest-france.fr,laurent castaing,2021/2,1,-1.38888888888889
+ouest-france.fr,laurence piccolo,2021/1,1,-1.72413793103448
+ouest-france.fr,souladakis jimmy,2021/3,1,-0.434782608695652
+ouest-france.fr,marianne blanchard,2021/3,1,0.227100681302044
+ouest-france.fr,paul gauguin,2021/1,1,-0.119331742243436
+ouest-france.fr,yveline morvant,2021/1,1,0.796812749003984
+sudouest.fr,alexander juniac,2021/3,1,1.57068062827225
+ouest-france.fr,achilles grandeau,2021/2,1,-3.6231884057971
+ouest-france.fr,reims chu,2021/3,1,-3.7037037037037
+sudouest.fr,el confidencial,2021/3,1,-2.06489675516224
+sudouest.fr,athmane tartag,2021/1,1,-4.48979591836735
+ouest-france.fr,mauro colagreco,2021/2,1,0.659340659340659
+sudouest.fr,franck marlin,2021/2,1,-2.11480362537764
+ouest-france.fr,rodney king,2021/3,1,-5.53571428571429
+sudouest.fr,laurent zuchowicz,2021/3,1,-1.20481927710843
+ouest-france.fr,alexandre gouyette,2021/1,1,0.892857142857143
+ouest-france.fr,david friedman,2021/2,1,9.46502057613169
+sudouest.fr,sylvie rongier,2021/3,1,-1.51515151515152
+sudouest.fr,franois cremieux,2021/2,1,-3.1413612565445
+ouest-france.fr,eric jugan,2021/3,1,-3.43839541547278
+ouest-france.fr,april gaumont,2021/3,1,-1.48514851485149
+ouest-france.fr,gabriel attal,2021/1,1,-1.97461212976023
+ouest-france.fr,souladakis villani,2021/1,1,-0.671892497200448
+ouest-france.fr,alice dufour,2021/3,1,0.409836065573771
+sudouest.fr,libourne philippe bush,2021/1,1,0.645161290322581
+sudouest.fr,baptist dax,2021/3,1,-3.3195020746888
+ouest-france.fr,natacha longeray,2021/2,1,-9.1743119266055
+ouest-france.fr,baron armel,2021/2,1,-0.458715596330275
+sudouest.fr,luc lumeau,2021/3,1,-8.92857142857143
+ouest-france.fr,square benedict roulet,2021/3,1,-0.22271714922049
+ouest-france.fr,lgbt quazar,2021/3,1,-14.2857142857143
+ouest-france.fr,nathalie lopez,2021/2,1,-4.08163265306122
+ouest-france.fr,xavier durringer,2021/1,1,-2.24215246636771
+ouest-france.fr,maxim lledo,2021/3,1,-1.39372822299652
+ouestaf.com,fatou jagne,2021/3,1,-10.1123595505618
+sudouest.fr,audrey pulvar,2021/2,1,-2.87610619469027
+sudouest.fr,corinne lepage,2021/3,1,-2.12765957446809
+ouest-france.fr,franck jourdain,2021/3,1,-0.233100233100233
+ouest-france.fr,matthew abrivard,2021/3,1,-0.529100529100529
+ouest-france.fr,franck storne,2021/1,1,-2.57731958762887
+ouest-france.fr,sibyl gollac,2021/3,1,0.128040973111395
+sudouest.fr,sun ariane mnouchkine,2021/1,1,-1.62721893491124
+sudouest.fr,white lewinsky,2021/2,1,-5.3030303030303
+ouest-france.fr,yannick kerlogot,2021/3,1,-1.71428571428571
+sudouest.fr,george bernard shaw,2021/1,1,-0.531914893617021
+ouest-france.fr,deputy bassem,2021/2,1,0.0
+ouest-france.fr,saint-jacques tomy,2021/3,1,0.881057268722467
+ouest-france.fr,pierre-yves cadalen,2021/2,1,-3.63636363636364
+ouest-france.fr,el pais,2021/1,1,-1.70261066969353
+ouest-france.fr,anna ruch,2021/3,1,-4.88431876606684
+ouest-france.fr,rafiq hariri,2021/1,1,-3.82022471910112
+ouest-france.fr,anouk bouteloup,2021/1,1,1.39372822299652
+ouest-france.fr,jean-claude mazin,2021/3,1,-1.0989010989011
+sudouest.fr,pierre-yves briand,2021/1,1,0.684931506849315
+ouest-france.fr,natacha bouchard,2021/3,1,0.0
+ouest-france.fr,mark lefevre,2021/1,1,-0.418410041841004
+ouest-france.fr,alexis tsipras,2021/3,1,-7.21649484536083
+ouest-france.fr,dimitris koufonidas,2021/3,1,-7.21649484536083
+ouest-france.fr,agatha christie,2021/1,1,0.61633281972265
+ouest-france.fr,toulouse izard,2021/3,1,-7.43034055727554
+sudouest.fr,catholic pope,2021/1,1,-3.23624595469256
+sudouest.fr,david schoen bruce beaver,2021/2,1,-9.09090909090909
+sudouest.fr,alexander dumas,2021/2,1,-1.0126582278481
+sudouest.fr,joseph kony,2021/2,1,-15.8490566037736
+ouest-france.fr,camille lepage,2021/3,1,-5.49450549450549
+ouest-france.fr,sun ariane mnouchkine,2021/1,1,-1.97461212976023
+sudouest.fr,johns hopkins,2021/3,1,-3.69230769230769
+ouest-france.fr,moron letterpost,2021/1,1,-1.45985401459854
+ouest-france.fr,alexander blaise,2021/1,1,1.04895104895105
+sudouest.fr,jean-marc dufour,2021/3,1,-0.87719298245614
+sudouest.fr,abu dhabi,2021/3,1,-2.06489675516224
+ouest-france.fr,bibendum george,2021/1,1,0.260416666666667
+ouest-france.fr,notre-dame dargenton-leglise,2021/3,1,-1.49253731343284
+sudouest.fr,pascal lopez,2021/2,1,-1.33111480865225
+sudouest.fr,nicolas basselier,2021/2,1,1.48514851485149
+ouest-france.fr,afp vincent,2021/2,1,-0.925925925925926
+ouest-france.fr,joel fourny,2021/2,1,1.63265306122449
+sudouest.fr,dhamed bakayoko,2021/3,1,-2.60416666666667
+ouest-france.fr,sonja haakon,2021/1,1,0.0
+sudouest.fr,marc pulvar,2021/2,1,-2.87610619469027
+ouest-france.fr,mathieu guillerot,2021/2,1,-1.25
+sudouest.fr,karine huet,2021/3,1,-0.187265917602996
+sudouest.fr,anne hidalgo,2021/3,1,-1.38613861386139
+ouest-france.fr,alex murray,2021/3,1,-2.01342281879195
+ouest-france.fr,rayan cherki,2021/3,1,2.10084033613445
+sudouest.fr,emmeline pankhurst,2021/3,1,-0.641025641025641
+ouest-france.fr,alassane ouattara,2021/3,1,-2.52100840336134
+ouest-france.fr,mario piromalli,2021/2,1,-2.22222222222222
+sudouest.fr,abraham lincoln,2021/2,1,-5.3030303030303
+ouest-france.fr,eileen allan,2021/2,1,-0.634920634920635
+ouest-france.fr,jacques sayagh,2021/2,1,-4.08163265306122
+ouest-france.fr,phil clapp,2021/1,1,1.25523012552301
+sudouest.fr,fabian buccio,2021/3,1,-2.42718446601942
+ouest-france.fr,suzanne collins,2021/2,1,-2.38805970149254
+sudouest.fr,hidalgo anne,2021/1,1,0.645161290322581
+sudouest.fr,philip green,2021/2,1,-3.23529411764706
+ouest-france.fr,laurent monsterleet,2021/3,1,-3.43839541547278
+ouest-france.fr,alexander arnault,2021/1,1,1.85185185185185
+ouest-france.fr,ludovic brossard,2021/3,1,0.649350649350649
+sudouest.fr,john french,2021/1,1,0.962861072902338
+ouest-france.fr,elizabeth bouvet,2021/3,1,0.612557427258805
+ouest-france.fr,christian rossi,2021/3,1,-3.1413612565445
+ouest-france.fr,ian philips,2021/2,1,-8.63636363636364
+ouest-france.fr,benoit felace letterpost,2021/3,1,-5.41082164328657
+ouest-france.fr,jean-philippe pouit,2021/3,1,-1.49253731343284
+sudouest.fr,isabelle huppert,2021/3,1,-1.50375939849624
+sudouest.fr,annie elizondo,2021/1,1,2.8735632183908
+ouest-france.fr,yves veyrier,2021/1,1,-0.467289719626168
+ouest-france.fr,vincent gourdon,2021/3,1,-2.03045685279188
+ouest-france.fr,msc pierfrancesco vago,2021/2,1,-1.38888888888889
+sudouest.fr,luc mlenchon,2021/2,1,-1.61290322580645
+ouest-france.fr,wood francw,2021/2,1,-3.34190231362468

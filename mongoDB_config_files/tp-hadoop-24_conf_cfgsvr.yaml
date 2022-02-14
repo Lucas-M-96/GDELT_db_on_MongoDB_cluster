@@ -1,0 +1,6 @@
+sharding:
+        clusterRole: configsvr
+replication:
+        replSetName: "rsCfg"
+net:
+        bindIp: localhost,tp-hadoop-24,192.168.3.34

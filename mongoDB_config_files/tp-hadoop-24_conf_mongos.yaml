@@ -1,0 +1,4 @@
+sharding:
+        configDB: rsCfg/tp-hadoop-24:27019
+net:
+        bindIp: localhost,tp-hadoopt-24,192.168.3.34
